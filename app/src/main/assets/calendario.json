@@ -1,0 +1,7022 @@
+[
+ {
+  "numero": 1,
+  "bloque": "Semanas 1–21",
+  "parasha": "Bereshit",
+  "porcion": "Génesis 1:1–6:8 (Parte 1/3)",
+  "otrosLibros": "Josué 1-7",
+  "complementaria": "Salmo 8; Juan 1:1-5",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 1:1–1:5",
+    "otros": "Josué 1:1–1:18"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 1:6–1:13",
+    "otros": "Josué 2:1–2:24"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 1:14–1:19",
+    "otros": "Josué 3:1–3:17"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 1:20–1:25",
+    "otros": "Josué 4:1–4:24"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 1:26–1:31",
+    "otros": "Josué 5:1–5:12"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 2:1–2:7",
+    "otros": "Josué 5:13–6:27"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 2:8–2:25",
+    "otros": "Josué 7:1–7:26"
+   }
+  ]
+ },
+ {
+  "numero": 2,
+  "bloque": "Semanas 1–21",
+  "parasha": "Bereshit",
+  "porcion": "Génesis 1:1–6:8 (Parte 2/3)",
+  "otrosLibros": "Josué 8-14",
+  "complementaria": "Romanos 5:12-21",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 3:1–3:7",
+    "otros": "Josué 8:1-8:35"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 3:8–3:19",
+    "otros": "Josué 9:1-9:27"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 3:20–3:24",
+    "otros": "Josué 10:1-10:27"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 4:1–4:8",
+    "otros": "Josué 10:28-10:43"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 4:9–4:16",
+    "otros": "Josué 11:1-11:23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 4:17–4:24",
+    "otros": "Josué 12:1-12:24"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 4:25–4:26",
+    "otros": "Josué 13:1-14:15"
+   }
+  ]
+ },
+ {
+  "numero": 3,
+  "bloque": "Semanas 1–21",
+  "parasha": "Bereshit",
+  "porcion": "Génesis 1:1–6:8 (Parte 3/3)",
+  "otrosLibros": "Josué 15-21",
+  "complementaria": "Mateo 24:36-39; Judas 14-15",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 5:1–5:11",
+    "otros": "Josué 15:1-15:63"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 5:12–5:20",
+    "otros": "Josué 16:1-17:18"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 5:21–5:27",
+    "otros": "Josué 18:1-18:28"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 5:28–5:32",
+    "otros": "Josué 19:1-19:51"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 6:1–6:4",
+    "otros": "Josué 20:1-20:9"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 6:5–6:7",
+    "otros": "Josué 21:1-21:42"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 6:8",
+    "otros": "Josué 21:43-21:45"
+   }
+  ]
+ },
+ {
+  "numero": 4,
+  "bloque": "Semanas 1–21",
+  "parasha": "Noaj",
+  "porcion": "Génesis 6:9–11:32 (Parte 1/3)",
+  "otrosLibros": "Josué 22-24; Jueces 1-4",
+  "complementaria": "1 Pedro 3:18-22",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 6:9–6:13",
+    "otros": "Josué 22:1-22:34"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 6:14–6:22",
+    "otros": "Josué 23:1-23:16"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 7:1–7:5",
+    "otros": "Josué 24:1-24:33"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 7:6–7:10",
+    "otros": "Jueces 1:1-1:36"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 7:11–7:16",
+    "otros": "Jueces 2:1-2:23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 7:17–7:20",
+    "otros": "Jueces 3:1-3:31"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 7:21–7:24",
+    "otros": "Jueces 4:1-4:24"
+   }
+  ]
+ },
+ {
+  "numero": 5,
+  "bloque": "Semanas 1–21",
+  "parasha": "Noaj",
+  "porcion": "Génesis 6:9–11:32 (Parte 2/3)",
+  "otrosLibros": "Jueces 5-11",
+  "complementaria": "Isaías 54:9-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 8:1–8:5",
+    "otros": "Jueces 5:1-5:31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 8:6–8:12",
+    "otros": "Jueces 6:1-6:40"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 8:13–8:19",
+    "otros": "Jueces 7:1-7:25"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 8:20–8:22",
+    "otros": "Jueces 8:1-8:35"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 9:1–9:7",
+    "otros": "Jueces 9:1-9:57"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 9:8–9:17",
+    "otros": "Jueces 10:1-10:18"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 9:18–9:29",
+    "otros": "Jueces 11:1-11:40"
+   }
+  ]
+ },
+ {
+  "numero": 6,
+  "bloque": "Semanas 1–21",
+  "parasha": "Noaj",
+  "porcion": "Génesis 6:9–11:32 (Parte 3/3)",
+  "otrosLibros": "Jueces 12-18",
+  "complementaria": "Hechos 7:2-8; Hebreos 11:8-12",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 10:1–10:14",
+    "otros": "Jueces 12:1-12:15"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 10:15–10:32",
+    "otros": "Jueces 13:1-13:25"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 11:1–11:4",
+    "otros": "Jueces 14:1-14:20"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 11:5–11:9",
+    "otros": "Jueces 15:1-15:20"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 11:10–11:26",
+    "otros": "Jueces 16:1-16:31"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 11:27–11:32",
+    "otros": "Jueces 17:1-17:13"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 12:1–12:3",
+    "otros": "Jueces 18:1-18:31"
+   }
+  ]
+ },
+ {
+  "numero": 7,
+  "bloque": "Semanas 1–21",
+  "parasha": "Lej Leja",
+  "porcion": "Génesis 12:1–17:27 (Parte 1/3)",
+  "otrosLibros": "Jueces 19-21; Rut 1-4",
+  "complementaria": "Hebreos 7:1-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 12:4–12:9",
+    "otros": "Jueces 19:1-19:30"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 12:10–12:16",
+    "otros": "Jueces 20:1-20:48"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 12:17–12:20",
+    "otros": "Jueces 21:1-21:25"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 13:1–13:7",
+    "otros": "Rut 1:1-1:22"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 13:8–13:13",
+    "otros": "Rut 2:1-2:23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 13:14–13:18",
+    "otros": "Rut 3:1-3:18"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 14:1–14:12",
+    "otros": "Rut 4:1-4:22"
+   }
+  ]
+ },
+ {
+  "numero": 8,
+  "bloque": "Semanas 1–21",
+  "parasha": "Lej Leja",
+  "porcion": "Génesis 12:1–17:27 (Parte 2/3)",
+  "otrosLibros": "1 Samuel 1-7",
+  "complementaria": "Romanos 4; Gálatas 3:6-18",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 14:13–14:16",
+    "otros": "1 Samuel 1:1-1:28"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 14:17–14:24",
+    "otros": "1 Samuel 2:1-2:36"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 15:1–15:6",
+    "otros": "1 Samuel 3:1-3:21"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 15:7–15:11",
+    "otros": "1 Samuel 4:1-4:22"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 15:12–15:16",
+    "otros": "1 Samuel 5:1-6:21"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 15:17–15:21",
+    "otros": "1 Samuel 7:1-7:12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 16:1–16:6",
+    "otros": "1 Samuel 7:13-7:17"
+   }
+  ]
+ },
+ {
+  "numero": 9,
+  "bloque": "Semanas 1–21",
+  "parasha": "Lej Leja",
+  "porcion": "Génesis 12:1–17:27 (Parte 3/3)",
+  "otrosLibros": "1 Samuel 8-14",
+  "complementaria": "Romanos 9:6-13",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 16:7–16:16",
+    "otros": "1 Samuel 8:1-8:22"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 17:1–17:8",
+    "otros": "1 Samuel 9:1-9:27"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 17:9–17:14",
+    "otros": "1 Samuel 10:1-10:27"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 17:15–17:19",
+    "otros": "1 Samuel 11:1-11:15"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 17:20–17:22",
+    "otros": "1 Samuel 12:1-12:25"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 17:23–17:27",
+    "otros": "1 Samuel 13:1-13:22"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 18:1–18:8",
+    "otros": "1 Samuel 14:1-14:52"
+   }
+  ]
+ },
+ {
+  "numero": 10,
+  "bloque": "Semanas 1–21",
+  "parasha": "Vayerá",
+  "porcion": "Génesis 18:1–22:24 (Parte 1/3)",
+  "otrosLibros": "1 Samuel 15-21",
+  "complementaria": "2 Pedro 2:6-9",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 18:9–18:15",
+    "otros": "1 Samuel 15:1-15:35"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 18:16–18:22",
+    "otros": "1 Samuel 16:1-16:23"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 18:23–18:33",
+    "otros": "1 Samuel 17:1-17:58"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 19:1–19:5",
+    "otros": "1 Samuel 18:1-18:30"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 19:6–19:11",
+    "otros": "1 Samuel 19:1-19:24"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 19:12–19:14",
+    "otros": "1 Samuel 20:1-20:42"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 19:15–19:23",
+    "otros": "1 Samuel 21:1-21:15"
+   }
+  ]
+ },
+ {
+  "numero": 11,
+  "bloque": "Semanas 1–21",
+  "parasha": "Vayerá",
+  "porcion": "Génesis 18:1–22:24 (Parte 2/3)",
+  "otrosLibros": "1 Samuel 22-28",
+  "complementaria": "Hebreos 11:17-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 19:24–19:29",
+    "otros": "1 Samuel 22:1-22:23"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 19:30–19:38",
+    "otros": "1 Samuel 23:1-23:29"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 20:1–20:7",
+    "otros": "1 Samuel 24:1-24:22"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 20:8–20:13",
+    "otros": "1 Samuel 25:1-25:44"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 20:14–20:18",
+    "otros": "1 Samuel 26:1-26:25"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 21:1–21:7",
+    "otros": "1 Samuel 27:1-28:2"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 21:8–21:14",
+    "otros": "1 Samuel 28:3-28:25"
+   }
+  ]
+ },
+ {
+  "numero": 12,
+  "bloque": "Semanas 1–21",
+  "parasha": "Vayerá",
+  "porcion": "Génesis 18:1–22:24 (Parte 3/3)",
+  "otrosLibros": "1 Samuel 29-31; 2 Samuel 1-4",
+  "complementaria": "Hebreos 11:11-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 21:15–21:21",
+    "otros": "1 Samuel 29:1-30:31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 21:22–21:34",
+    "otros": "1 Samuel 31:1-31:13"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 22:1–22:5",
+    "otros": "2 Samuel 1:1-1:27"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 22:6–22:10",
+    "otros": "2 Samuel 2:1-2:32"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 22:11–22:14",
+    "otros": "2 Samuel 3:1-3:39"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 22:15–22:19",
+    "otros": "2 Samuel 4:1-4:12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 22:20–22:24",
+    "otros": "2 Samuel 5:1-5:5"
+   }
+  ]
+ },
+ {
+  "numero": 13,
+  "bloque": "Semanas 1–21",
+  "parasha": "Jayei Sará",
+  "porcion": "Génesis 23:1–25:18 (Parte 1/3)",
+  "otrosLibros": "2 Samuel 5-11",
+  "complementaria": "Malaquías 1:2-5",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 23:1–23:6",
+    "otros": "2 Samuel 5:6-5:25"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 23:7–23:13",
+    "otros": "2 Samuel 6:1-6:23"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 23:14–23:20",
+    "otros": "2 Samuel 7:1-7:29"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 24:1–24:9",
+    "otros": "2 Samuel 8:1-9:13"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 24:10–24:14",
+    "otros": "2 Samuel 10:1-10:19"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 24:15–24:21",
+    "otros": "2 Samuel 11:1-11:13"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 24:22–24:27",
+    "otros": "2 Samuel 11:14-11:27"
+   }
+  ]
+ },
+ {
+  "numero": 14,
+  "bloque": "Semanas 1–21",
+  "parasha": "Jayei Sará",
+  "porcion": "Génesis 23:1–25:18 (Parte 2/3)",
+  "otrosLibros": "2 Samuel 12-18",
+  "complementaria": "Romanos 9:10-13",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 24:28–24:33",
+    "otros": "2 Samuel 12:1-12:31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 24:34–24:49",
+    "otros": "2 Samuel 13:1-13:39"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 24:50–24:54",
+    "otros": "2 Samuel 14:1-14:33"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 24:55–24:60",
+    "otros": "2 Samuel 15:1-15:37"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 24:61–24:67",
+    "otros": "2 Samuel 16:1-16:23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 25:1–25:6",
+    "otros": "2 Samuel 17:1-17:29"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 25:7–25:11",
+    "otros": "2 Samuel 18:1-18:33"
+   }
+  ]
+ },
+ {
+  "numero": 15,
+  "bloque": "Semanas 1–21",
+  "parasha": "Jayei Sará",
+  "porcion": "Génesis 23:1–25:18 (Parte 3/3)",
+  "otrosLibros": "2 Samuel 19-24; 1 Reyes 1",
+  "complementaria": "Génesis 49:8-12; Apocalipsis 5:5",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 25:12–25:18",
+    "otros": "2 Samuel 19:1-19:43"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 25:19–25:23",
+    "otros": "2 Samuel 20:1-20:26"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 25:24–25:28",
+    "otros": "2 Samuel 21:1-21:22"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 25:29–25:34",
+    "otros": "2 Samuel 22:1-22:51"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 26:1–26:6",
+    "otros": "2 Samuel 23:1-23:39"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 26:7–26:11",
+    "otros": "2 Samuel 24:1-24:25"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 26:12–26:16",
+    "otros": "1 Reyes 1:1-1:53"
+   }
+  ]
+ },
+ {
+  "numero": 16,
+  "bloque": "Semanas 1–21",
+  "parasha": "Toledot",
+  "porcion": "Génesis 25:19–28:9 (Parte 1/3)",
+  "otrosLibros": "1 Reyes 2-8",
+  "complementaria": "Juan 4:5-26",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 26:17–26:22",
+    "otros": "1 Reyes 2:1-2:46"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 26:23–26:25",
+    "otros": "1 Reyes 3:1-3:28"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 26:26–26:33",
+    "otros": "1 Reyes 4:1-4:34"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 26:34–26:35",
+    "otros": "1 Reyes 5:1-6:38"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 27:1–27:13",
+    "otros": "1 Reyes 7:1-7:51"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 27:14–27:23",
+    "otros": "1 Reyes 8:1-8:30"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 27:24–27:29",
+    "otros": "1 Reyes 8:31-8:66"
+   }
+  ]
+ },
+ {
+  "numero": 17,
+  "bloque": "Semanas 1–21",
+  "parasha": "Toledot",
+  "porcion": "Génesis 25:19–28:9 (Parte 2/3)",
+  "otrosLibros": "1 Reyes 9-15",
+  "complementaria": "Oseas 12:2-6",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 27:30–27:40",
+    "otros": "1 Reyes 9:1-9:28"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 27:41–27:46",
+    "otros": "1 Reyes 10:1-10:29"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 28:1–28:5",
+    "otros": "1 Reyes 11:1-11:43"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 28:6–28:9",
+    "otros": "1 Reyes 12:1-12:33"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 28:10–28:15",
+    "otros": "1 Reyes 13:1-13:34"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 28:16–28:19",
+    "otros": "1 Reyes 14:1-14:31"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 28:20–28:22",
+    "otros": "1 Reyes 15:1-15:34"
+   }
+  ]
+ },
+ {
+  "numero": 18,
+  "bloque": "Semanas 1–21",
+  "parasha": "Toledot",
+  "porcion": "Génesis 25:19–28:9 (Parte 3/3)",
+  "otrosLibros": "1 Reyes 16-22",
+  "complementaria": "Hebreos 11:20-22",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 29:1–29:8",
+    "otros": "1 Reyes 16:1-16:34"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 29:9–29:14",
+    "otros": "1 Reyes 17:1-17:24"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 29:15–29:20",
+    "otros": "1 Reyes 18:1-18:46"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 29:21–29:25",
+    "otros": "1 Reyes 19:1-19:21"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 29:26–29:30",
+    "otros": "1 Reyes 20:1-20:43"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 29:31–29:33",
+    "otros": "1 Reyes 21:1-21:29"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 29:34–29:35",
+    "otros": "1 Reyes 22:1-22:53"
+   }
+  ]
+ },
+ {
+  "numero": 19,
+  "bloque": "Semanas 1–21",
+  "parasha": "Vayetze",
+  "porcion": "Génesis 28:10–32:2 (Parte 1/3)",
+  "otrosLibros": "2 Reyes 1-7",
+  "complementaria": "Hechos 7:9-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 30:1–30:8",
+    "otros": "2 Reyes 1:1-1:18"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 30:9–30:13",
+    "otros": "2 Reyes 2:1-2:25"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 30:14–30:21",
+    "otros": "2 Reyes 3:1-3:27"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 30:22–30:24",
+    "otros": "2 Reyes 4:1-4:44"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 30:25–30:30",
+    "otros": "2 Reyes 5:1-5:27"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 30:31–30:36",
+    "otros": "2 Reyes 6:1-6:33"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 30:37–30:43",
+    "otros": "2 Reyes 7:1-7:20"
+   }
+  ]
+ },
+ {
+  "numero": 20,
+  "bloque": "Semanas 1–21",
+  "parasha": "Vayetze",
+  "porcion": "Génesis 28:10–32:2 (Parte 2/3)",
+  "otrosLibros": "2 Reyes 8-14",
+  "complementaria": "Salmo 105:16-22",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 31:1–31:9",
+    "otros": "2 Reyes 8:1-8:29"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 31:10–31:18",
+    "otros": "2 Reyes 9:1-9:37"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 31:19–31:25",
+    "otros": "2 Reyes 10:1-10:36"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 31:26–31:35",
+    "otros": "2 Reyes 11:1-11:21"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 31:36–31:42",
+    "otros": "2 Reyes 12:1-12:21"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 31:43–31:50",
+    "otros": "2 Reyes 13:1-13:25"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 31:51–31:55",
+    "otros": "2 Reyes 14:1-14:29"
+   }
+  ]
+ },
+ {
+  "numero": 21,
+  "bloque": "Semanas 1–21",
+  "parasha": "Vayetze",
+  "porcion": "Génesis 28:10–32:2 (Parte 3/3)",
+  "otrosLibros": "2 Reyes 15-21",
+  "complementaria": "Salmo 105:23-25",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 32:1–32:5",
+    "otros": "2 Reyes 15:1-15:38"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 32:6–32:12",
+    "otros": "2 Reyes 16:1-16:20"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 32:13–32:21",
+    "otros": "2 Reyes 17:1-17:41"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 32:22–32:32",
+    "otros": "2 Reyes 18:1-18:37"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 33:1–33:7",
+    "otros": "2 Reyes 19:1-19:37"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 33:8–33:16",
+    "otros": "2 Reyes 20:1-20:21"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 33:17–33:20",
+    "otros": "2 Reyes 21:1-21:26"
+   }
+  ]
+ },
+ {
+  "numero": 22,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayishlaj",
+  "porcion": "Génesis 32:3–35:29 (Parte 1/3)",
+  "otrosLibros": "2 Reyes 22-25; 1 Crónicas 1-3",
+  "complementaria": "Hechos 7:9-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 34:1–34:12",
+    "otros": "2 Reyes 22:1-22:20"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 34:13–34:24",
+    "otros": "2 Reyes 23:1-23:37"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 34:25–34:31",
+    "otros": "2 Reyes 24:1-24:20"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 35:1–35:8",
+    "otros": "2 Reyes 25:1-25:30"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 35:9–35:15",
+    "otros": "1 Crónicas 1:1-1:54"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 35:16–35:21",
+    "otros": "1 Crónicas 2:1-2:55"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 35:22–35:29",
+    "otros": "1 Crónicas 3:1-3:24"
+   }
+  ]
+ },
+ {
+  "numero": 23,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayishlaj",
+  "porcion": "Génesis 32:3–35:29 (Parte 2/3)",
+  "otrosLibros": "1 Crónicas 4-10",
+  "complementaria": "Génesis 50:19-21; Éxodo 1:6-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 36:1–36:19",
+    "otros": "1 Crónicas 4:1-4:43"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 36:20–36:43",
+    "otros": "1 Crónicas 5:1-5:26"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 37:1–37:11",
+    "otros": "1 Crónicas 6:1-6:81"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 37:12–37:17",
+    "otros": "1 Crónicas 7:1-7:40"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 37:18–37:24",
+    "otros": "1 Crónicas 8:1-8:40"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 37:25–37:30",
+    "otros": "1 Crónicas 9:1-9:44"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 37:31–37:36",
+    "otros": "1 Crónicas 10:1-10:14"
+   }
+  ]
+ },
+ {
+  "numero": 24,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayishlaj",
+  "porcion": "Génesis 32:3–35:29 (Parte 3/3)",
+  "otrosLibros": "1 Crónicas 11-17",
+  "complementaria": "Hebreos 11:21-22",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 38:1–38:11",
+    "otros": "1 Crónicas 11:1-11:47"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 38:12–38:23",
+    "otros": "1 Crónicas 12:1-12:40"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 38:24–38:30",
+    "otros": "1 Crónicas 13:1-13:14"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 39:1–39:6",
+    "otros": "1 Crónicas 14:1-14:17"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 39:7–39:12",
+    "otros": "1 Crónicas 15:1-15:29"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 39:13–39:18",
+    "otros": "1 Crónicas 16:1-16:43"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 39:19–39:23",
+    "otros": "1 Crónicas 17:1-17:27"
+   }
+  ]
+ },
+ {
+  "numero": 25,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayeshev",
+  "porcion": "Génesis 37:1–40:23 (Parte 1/3)",
+  "otrosLibros": "1 Crónicas 18-24",
+  "complementaria": "Génesis 49:8-12; Hebreos 11:21",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 40:1–40:8",
+    "otros": "1 Crónicas 18:1-18:17"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 40:9–40:15",
+    "otros": "1 Crónicas 19:1-19:19"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 40:16–40:23",
+    "otros": "1 Crónicas 20:1-20:8"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 41:1–41:8",
+    "otros": "1 Crónicas 21:1-21:30"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 41:9–41:16",
+    "otros": "1 Crónicas 22:1-22:19"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 41:17–41:27",
+    "otros": "1 Crónicas 23:1-23:32"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 41:28–41:36",
+    "otros": "1 Crónicas 24:1-24:31"
+   }
+  ]
+ },
+ {
+  "numero": 26,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayeshev",
+  "porcion": "Génesis 37:1–40:23 (Parte 2/3)",
+  "otrosLibros": "1 Crónicas 25-29; 2 Crónicas 1-2",
+  "complementaria": "Éxodo 1:8-14; Hechos 7:17-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 41:37–41:45",
+    "otros": "1 Crónicas 25:1-25:31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 41:46–41:57",
+    "otros": "1 Crónicas 26:1-26:32"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 42:1–42:9",
+    "otros": "1 Crónicas 27:1-27:34"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 42:10–42:17",
+    "otros": "1 Crónicas 28:1-28:21"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 42:18–42:20",
+    "otros": "1 Crónicas 29:1-29:30"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 42:21–42:24",
+    "otros": "2 Crónicas 1:1-1:17"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 42:25–42:28",
+    "otros": "2 Crónicas 2:1-2:18"
+   }
+  ]
+ },
+ {
+  "numero": 27,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayeshev",
+  "porcion": "Génesis 37:1–40:23 (Parte 3/3)",
+  "otrosLibros": "2 Crónicas 3-9",
+  "complementaria": "Éxodo 3:1-15; Hechos 7:30-34",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 42:29–42:38",
+    "otros": "2 Crónicas 3:1-3:17"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 43:1–43:10",
+    "otros": "2 Crónicas 4:1-4:22"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 43:11–43:15",
+    "otros": "2 Crónicas 5:1-5:14"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 43:16–43:23",
+    "otros": "2 Crónicas 6:1-6:42"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 43:24–43:28",
+    "otros": "2 Crónicas 7:1-7:22"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 43:29–43:31",
+    "otros": "2 Crónicas 8:1-8:18"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 43:32–43:34",
+    "otros": "2 Crónicas 9:1-9:31"
+   }
+  ]
+ },
+ {
+  "numero": 28,
+  "bloque": "Semanas 22–42",
+  "parasha": "Miketz",
+  "porcion": "Génesis 41:1–44:17 (Parte 1/3)",
+  "otrosLibros": "2 Crónicas 10-16",
+  "complementaria": "Salmo 78:43-51",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 44:1–44:5",
+    "otros": "2 Crónicas 10:1-10:19"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 44:6–44:13",
+    "otros": "2 Crónicas 11:1-11:23"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 44:14–44:17",
+    "otros": "2 Crónicas 12:1-12:16"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 44:18–44:34",
+    "otros": "2 Crónicas 13:1-13:22"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 45:1–45:4",
+    "otros": "2 Crónicas 14:1-14:15"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 45:5–45:8",
+    "otros": "2 Crónicas 15:1-15:19"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 45:9–45:15",
+    "otros": "2 Crónicas 16:1-16:14"
+   }
+  ]
+ },
+ {
+  "numero": 29,
+  "bloque": "Semanas 22–42",
+  "parasha": "Miketz",
+  "porcion": "Génesis 41:1–44:17 (Parte 2/3)",
+  "otrosLibros": "2 Crónicas 17-23",
+  "complementaria": "Éxodo 12:1-14; 1 Corintios 5:7-8",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 45:16–45:24",
+    "otros": "2 Crónicas 17:1-17:19"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 45:25–45:28",
+    "otros": "2 Crónicas 18:1-18:34"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 46:1–46:7",
+    "otros": "2 Crónicas 19:1-19:11"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 46:8–46:27",
+    "otros": "2 Crónicas 20:1-20:37"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 46:28–46:34",
+    "otros": "2 Crónicas 21:1-21:20"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 47:1–47:6",
+    "otros": "2 Crónicas 22:1-22:12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 47:7–47:12",
+    "otros": "2 CRÓNICAS 23:1-23:21"
+   }
+  ]
+ },
+ {
+  "numero": 30,
+  "bloque": "Semanas 22–42",
+  "parasha": "Miketz",
+  "porcion": "Génesis 41:1–44:17 (Parte 3/3)",
+  "otrosLibros": "2 Crónicas 24-30",
+  "complementaria": "Éxodo 14:13-31; Hebreos 11:29",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 47:13–47:19",
+    "otros": "2 Crónicas 24:1-24:27"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 47:20–47:26",
+    "otros": "2 Crónicas 25:1-25:28"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 47:27–47:31",
+    "otros": "2 Crónicas 26:1-26:23"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 48:1–48:7",
+    "otros": "2 Crónicas 27:1-28:27"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 48:8–48:14",
+    "otros": "2 Crónicas 29:1-29:36"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 48:15–48:19",
+    "otros": "2 Crónicas 30:1-30:27"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 48:20–48:22",
+    "otros": "2 Crónicas 31:1-31:21"
+   }
+  ]
+ },
+ {
+  "numero": 31,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayigash",
+  "porcion": "Génesis 44:18–47:27 (Parte 1/3)",
+  "otrosLibros": "2 Crónicas 31-36; Esdras 1",
+  "complementaria": "Éxodo 16:1-18; Juan 6:31-35",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Génesis 49:1–49:12",
+    "otros": "2 Crónicas 32:1-32:33"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Génesis 49:13–49:21",
+    "otros": "2 Crónicas 33:1-33:25"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Génesis 49:22–49:28",
+    "otros": "2 Crónicas 34:1-34:33"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Génesis 49:29–49:33",
+    "otros": "2 Crónicas 35:1-35:27"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Génesis 50:1–50:9",
+    "otros": "2 Crónicas 36:1-36:23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Génesis 50:10–50:14",
+    "otros": "Esdras 1:1-1:11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Génesis 50:15–50:26",
+    "otros": "Esdras 2:1-2:70"
+   }
+  ]
+ },
+ {
+  "numero": 32,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayigash",
+  "porcion": "Génesis 44:18–47:27 (Parte 2/3)",
+  "otrosLibros": "Esdras 2-8",
+  "complementaria": "Éxodo 18:13-27; Hechos 6:1-7",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 1:1–1:14",
+    "otros": "Esdras 3:1-3:13"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 1:15–1:22",
+    "otros": "Esdras 4:1-4:24"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 2:1–2:4",
+    "otros": "Esdras 5:1-5:17"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 2:5–2:10",
+    "otros": "Esdras 6:1-6:22"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 2:11–2:15",
+    "otros": "Esdras 7:1-7:28"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 2:16–2:22",
+    "otros": "Esdras 8:1-8:20"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 2:23–2:25",
+    "otros": "Esdras 8:21-8:36"
+   }
+  ]
+ },
+ {
+  "numero": 33,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayigash",
+  "porcion": "Génesis 44:18–47:27 (Parte 3/3)",
+  "otrosLibros": "Esdras 9-10; Nehemías 1-5",
+  "complementaria": "Éxodo 19:3-6; 1 Pedro 2:9-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 3:1–3:6",
+    "otros": "Esdras 9:1-9:15"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 3:7–3:12",
+    "otros": "Esdras 10:1-10:44"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 3:13–3:22",
+    "otros": "Nehemías 1:1-1:11"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 4:1–4:9",
+    "otros": "Nehemías 2:1-2:20"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 4:10–4:12",
+    "otros": "Nehemías 3:1-3:32"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 4:13–4:17",
+    "otros": "Nehemías 4:1-4:23"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 4:18–4:31",
+    "otros": "Nehemías 5:1-5:19"
+   }
+  ]
+ },
+ {
+  "numero": 34,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayeji",
+  "porcion": "Génesis 47:28–50:26 (Parte 1/3)",
+  "otrosLibros": "Nehemías 6-12",
+  "complementaria": "Éxodo 20:1-17; Mateo 5:17-20",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 5:1–5:9",
+    "otros": "Nehemías 6:1-6:19"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 5:10–5:19",
+    "otros": "Nehemías 7:1-7:73"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 5:20–5:23",
+    "otros": "Nehemías 8:1-8:18"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 6:1–6:8",
+    "otros": "Nehemías 9:1-9:38"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 6:9–6:13",
+    "otros": "Nehemías 10:1-10:39"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 6:14–6:27",
+    "otros": "Nehemías 11:1-11:36"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 6:28–7:7",
+    "otros": "Nehemías 12:1-12:47"
+   }
+  ]
+ },
+ {
+  "numero": 35,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayeji",
+  "porcion": "Génesis 47:28–50:26 (Parte 2/3)",
+  "otrosLibros": "Nehemías 13; Ester 1-6",
+  "complementaria": "Mateo 5:21-26",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 7:8–7:13",
+    "otros": "Nehemías 13:1-13:31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 7:14–7:25",
+    "otros": "Ester 1:1-1:22"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 8:1–8:7",
+    "otros": "Ester 2:1-2:23"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 8:8–8:15",
+    "otros": "Ester 3:1-3:15"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 8:16–8:19",
+    "otros": "Ester 4:1-4:17"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 8:20–8:24",
+    "otros": "Ester 5:1-5:14"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 8:25–8:32",
+    "otros": "Ester 6:1-6:14"
+   }
+  ]
+ },
+ {
+  "numero": 36,
+  "bloque": "Semanas 22–42",
+  "parasha": "Vayeji",
+  "porcion": "Génesis 47:28–50:26 (Parte 3/3)",
+  "otrosLibros": "Ester 7-10; Job 1-3",
+  "complementaria": "Mateo 5:38-48",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 9:1–9:7",
+    "otros": "Ester 7:1-7:10"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 9:8–9:12",
+    "otros": "Ester 8:1-8:17"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 9:13–9:21",
+    "otros": "Ester 9:1-9:32"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 9:22–9:35",
+    "otros": "Ester 10:1-10:3"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 10:1–10:6",
+    "otros": "Job 1:1-1:22"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 10:7–10:11",
+    "otros": "Job 2:1-2:13"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 10:12–10:20",
+    "otros": "Job 3:1-3:26"
+   }
+  ]
+ },
+ {
+  "numero": 37,
+  "bloque": "Semanas 22–42",
+  "parasha": "Shemot",
+  "porcion": "Éxodo 1:1–6:1 (Parte 1/3)",
+  "otrosLibros": "Job 4-10",
+  "complementaria": "Deuteronomio 5:12-15",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 10:21–10:29",
+    "otros": "Job 4:1-5:27"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 11:1–11:10",
+    "otros": "Job 6:1-7:21"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 12:1–12:6",
+    "otros": "Job 8:1-8:22"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 12:7–12:13",
+    "otros": "Job 9:1-10:22"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 12:14–12:20",
+    "otros": "Job 11:1-11:20"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 12:21–12:24",
+    "otros": "Job 12:1-13:19"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 12:25–12:28",
+    "otros": "Job 13:20-14:22"
+   }
+  ]
+ },
+ {
+  "numero": 38,
+  "bloque": "Semanas 22–42",
+  "parasha": "Shemot",
+  "porcion": "Éxodo 1:1–6:1 (Parte 2/3)",
+  "otrosLibros": "Job 11-17",
+  "complementaria": "Mateo 22:34-40",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 12:29–12:36",
+    "otros": "Job 15:1-15:35"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 12:37–12:42",
+    "otros": "Job 16:1-16:22"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 12:43–12:51",
+    "otros": "Job 17:1-17:16"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 13:1–13:10",
+    "otros": "Job 18:1-18:21"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 13:11–13:16",
+    "otros": "Job 19:1-19:20"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 13:17–13:19",
+    "otros": "Job 19:21-19:29"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 13:20–13:22",
+    "otros": "Job 20:1-20:29"
+   }
+  ]
+ },
+ {
+  "numero": 39,
+  "bloque": "Semanas 22–42",
+  "parasha": "Shemot",
+  "porcion": "Éxodo 1:1–6:1 (Parte 3/3)",
+  "otrosLibros": "Job 18-24",
+  "complementaria": "Romanos 13:8-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 14:1–14:9",
+    "otros": "Job 21:1-21:34"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 14:10–14:14",
+    "otros": "Job 22:1-22:30"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 14:15–14:22",
+    "otros": "Job 23:1-23:17"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 14:23–14:31",
+    "otros": "Job 24:1-24:25"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 15:1–15:12",
+    "otros": "Job 25:1-25:6"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 15:13–15:18",
+    "otros": "Job 26:1-26:14"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 15:19–15:21",
+    "otros": "Job 27:1-27:23"
+   }
+  ]
+ },
+ {
+  "numero": 40,
+  "bloque": "Semanas 22–42",
+  "parasha": "Va'erá",
+  "porcion": "Éxodo 6:2–9:35 (Parte 1/3)",
+  "otrosLibros": "Job 25-31",
+  "complementaria": "Mateo 5:33-37",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 15:22–15:27",
+    "otros": "Job 28:1-28:28"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 16:1–16:8",
+    "otros": "Job 29:1-29:25"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 16:9–16:15",
+    "otros": "Job 30:1-30:31"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 16:16–16:21",
+    "otros": "Job 31:1-31:20"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 16:22–16:26",
+    "otros": "Job 31:21-31:40"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 16:27–16:30",
+    "otros": "Job 32:1-32:22"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 16:31–16:36",
+    "otros": "Job 33:1-33:33"
+   }
+  ]
+ },
+ {
+  "numero": 41,
+  "bloque": "Semanas 22–42",
+  "parasha": "Va'erá",
+  "porcion": "Éxodo 6:2–9:35 (Parte 2/3)",
+  "otrosLibros": "Job 32-38",
+  "complementaria": "Mateo 7:12; Santiago 2:8",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 17:1–17:4",
+    "otros": "Job 34:1-34:37"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 17:5–17:7",
+    "otros": "Job 35:1-35:16"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 17:8–17:10",
+    "otros": "Job 36:1-36:33"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 17:11–17:13",
+    "otros": "Job 37:1-37:24"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 17:14–17:16",
+    "otros": "Job 38:1-38:21"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 18:1–18:6",
+    "otros": "Job 38:22-38:41"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 18:7–18:12",
+    "otros": "Job 39:1-39:30"
+   }
+  ]
+ },
+ {
+  "numero": 42,
+  "bloque": "Semanas 22–42",
+  "parasha": "Va'erá",
+  "porcion": "Éxodo 6:2–9:35 (Parte 3/3)",
+  "otrosLibros": "Job 39-42; Salmos 1-3",
+  "complementaria": "Hebreos 8:1-6",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 18:13–18:16",
+    "otros": "Job 40:1-40:24"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 18:17–18:18",
+    "otros": "Job 41:1-41:34"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 18:19–18:20",
+    "otros": "Job 42:1-42:6"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 18:21–18:23",
+    "otros": "Job 42:7-42:17"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 18:24–18:26",
+    "otros": "Salmos 1:1-1:6"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 18:27",
+    "otros": "Salmos 2:1-2:12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 19:1–19:2",
+    "otros": "Salmos 3:1-3:8"
+   }
+  ]
+ },
+ {
+  "numero": 43,
+  "bloque": "Semanas 43–75",
+  "parasha": "Bo",
+  "porcion": "Éxodo 10:1–13:16 (Parte 1/3)",
+  "otrosLibros": "Salmos 4-10",
+  "complementaria": "Hebreos 9:1-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 19:3–19:9",
+    "otros": "Salmo 4"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 19:10–19:15",
+    "otros": "Salmo 5"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 19:16–19:25",
+    "otros": "Salmo 6"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 20:1–20:6",
+    "otros": "Salmo 7"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 20:7–20:11",
+    "otros": "Salmo 8"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 20:12–20:17",
+    "otros": "Salmo 9"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 20:18–20:26",
+    "otros": "Salmo 10"
+   }
+  ]
+ },
+ {
+  "numero": 44,
+  "bloque": "Semanas 43–75",
+  "parasha": "Bo",
+  "porcion": "Éxodo 10:1–13:16 (Parte 2/3)",
+  "otrosLibros": "Salmos 11-17",
+  "complementaria": "Hebreos 10:1-18",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 21:1–21:11",
+    "otros": "Salmo 11"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 21:12–21:21",
+    "otros": "Salmo 12"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 21:22–21:27",
+    "otros": "Salmo 13"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 21:28–21:36",
+    "otros": "Salmo 14"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 22:1–22:6",
+    "otros": "Salmo 15"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 22:7–22:13",
+    "otros": "Salmo 16"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 22:14–22:15",
+    "otros": "Salmo 17"
+   }
+  ]
+ },
+ {
+  "numero": 45,
+  "bloque": "Semanas 43–75",
+  "parasha": "Bo",
+  "porcion": "Éxodo 10:1–13:16 (Parte 3/3)",
+  "otrosLibros": "Salmos 18-24",
+  "complementaria": "Hebreos 11:24-29",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 22:16–22:31",
+    "otros": "Salmo 18"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 23:1–23:9",
+    "otros": "Salmo 19"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 23:10–23:19",
+    "otros": "Salmo 20"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 23:20–23:33",
+    "otros": "Salmo 21"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 24:1–24:8",
+    "otros": "Salmo 22"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 24:9–24:14",
+    "otros": "Salmo 23"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 24:15–24:18",
+    "otros": "Salmo 24"
+   }
+  ]
+ },
+ {
+  "numero": 46,
+  "bloque": "Semanas 43–75",
+  "parasha": "Beshalaj",
+  "porcion": "Éxodo 13:17–17:16 (Parte 1/3)",
+  "otrosLibros": "Salmos 25-31",
+  "complementaria": "Juan 1:14; Apocalipsis 21:3",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 25:1–25:9",
+    "otros": "Salmo 25"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 25:10–25:16",
+    "otros": "Salmo 26"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 25:17–25:22",
+    "otros": "Salmo 27"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 25:23–25:30",
+    "otros": "Salmo 28"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 25:31–25:40",
+    "otros": "Salmo 29"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 26:1–26:6",
+    "otros": "Salmo 30"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 26:7–26:14",
+    "otros": "Salmo 31"
+   }
+  ]
+ },
+ {
+  "numero": 47,
+  "bloque": "Semanas 43–75",
+  "parasha": "Beshalaj",
+  "porcion": "Éxodo 13:17–17:16 (Parte 2/3)",
+  "otrosLibros": "Salmos 32-38",
+  "complementaria": "Hebreos 3:1-6",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 26:15–26:25",
+    "otros": "Salmo 32"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 26:26–26:30",
+    "otros": "Salmo 33"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 26:31–26:37",
+    "otros": "Salmo 34"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 27:1–27:8",
+    "otros": "Salmo 35"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 27:9–27:19",
+    "otros": "Salmo 36"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 27:20–27:21",
+    "otros": "Salmo 37"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 28:1–28:5",
+    "otros": "Salmo 38"
+   }
+  ]
+ },
+ {
+  "numero": 48,
+  "bloque": "Semanas 43–75",
+  "parasha": "Beshalaj",
+  "porcion": "Éxodo 13:17–17:16 (Parte 3/3)",
+  "otrosLibros": "Salmos 39-45",
+  "complementaria": "Hebreos 9:11-15",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 28:6–28:14",
+    "otros": "Salmo 39"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 28:15–28:21",
+    "otros": "Salmo 40"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 28:22–28:30",
+    "otros": "Salmo 41"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 28:31–28:35",
+    "otros": "Salmo 42"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 28:36–28:38",
+    "otros": "Salmo 43"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 28:39–28:41",
+    "otros": "Salmo 44"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 28:42–28:43",
+    "otros": "Salmo 45"
+   }
+  ]
+ },
+ {
+  "numero": 49,
+  "bloque": "Semanas 43–75",
+  "parasha": "Yitró",
+  "porcion": "Éxodo 18:1–20:26 (Parte 1/3)",
+  "otrosLibros": "Salmos 46-52",
+  "complementaria": "Hebreos 12:18-24",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 29:1–29:9",
+    "otros": "Salmo 46"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 29:10–29:18",
+    "otros": "Salmo 47"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 29:19–29:28",
+    "otros": "Salmo 48"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 29:29–29:37",
+    "otros": "Salmo 49"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 29:38–29:46",
+    "otros": "Salmo 50"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 30:1–20:6",
+    "otros": "Salmo 51"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 30:7–30:10",
+    "otros": "Salmo 52"
+   }
+  ]
+ },
+ {
+  "numero": 50,
+  "bloque": "Semanas 43–75",
+  "parasha": "Yitró",
+  "porcion": "Éxodo 18:1–20:26 (Parte 2/3)",
+  "otrosLibros": "Salmos 53-59",
+  "complementaria": "2 Corintios 3:7-18",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 30:11–30:16",
+    "otros": "Salmo 53"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 30:17–30:21",
+    "otros": "Salmo 54"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 30:22–30:33",
+    "otros": "Salmo 55"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 30:34–30:38",
+    "otros": "Salmo 56"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 31:1–31:11",
+    "otros": "Salmo 57"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 31:12–31:17",
+    "otros": "Salmo 58"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 31:18",
+    "otros": "Salmo 59"
+   }
+  ]
+ },
+ {
+  "numero": 51,
+  "bloque": "Semanas 43–75",
+  "parasha": "Yitró",
+  "porcion": "Éxodo 18:1–20:26 (Parte 3/3)",
+  "otrosLibros": "Salmos 60-66",
+  "complementaria": "1 Corintios 10:1-13",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 32:1–32:6",
+    "otros": "Salmo 60"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 32:7–32:14",
+    "otros": "Salmo 61"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 32:15–32:20",
+    "otros": "Salmo 62"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 32:21–32:24",
+    "otros": "Salmo 63"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 32:25–32:29",
+    "otros": "Salmo 64"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 32:30–32:33",
+    "otros": "Salmo 65"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 32:34–32:35",
+    "otros": "Salmo 66"
+   }
+  ]
+ },
+ {
+  "numero": 52,
+  "bloque": "Semanas 43–75",
+  "parasha": "Mishpatim",
+  "porcion": "Éxodo 21:1–24:18 (Parte 1/3)",
+  "otrosLibros": "Salmos 67-73",
+  "complementaria": "Salmo 99",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 33:1–33:6",
+    "otros": "Salmo 67"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 33:7–33:11",
+    "otros": "Salmo 68"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 33:12–33:17",
+    "otros": "Salmo 69"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 33:18–33:23",
+    "otros": "Salmo 70"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 34:1–34:9",
+    "otros": "Salmo 71"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 34:10–34:28",
+    "otros": "Salmo 72"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 34:29–34:35",
+    "otros": "Salmo 73"
+   }
+  ]
+ },
+ {
+  "numero": 53,
+  "bloque": "Semanas 43–75",
+  "parasha": "Mishpatim",
+  "porcion": "Éxodo 21:1–24:18 (Parte 2/3)",
+  "otrosLibros": "Salmos 74-80",
+  "complementaria": "Juan 4:19-24",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 35:1–35:9",
+    "otros": "Salmo 74"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 35:10–35:29",
+    "otros": "Salmo 75"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 35:30–36:7",
+    "otros": "Salmo 76"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 36:8–36:19",
+    "otros": "Salmo 77"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 36:20–36:38",
+    "otros": "Salmo 78"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 37:1–37:16",
+    "otros": "Salmo 79"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 37:17–37:29",
+    "otros": "Salmo 80"
+   }
+  ]
+ },
+ {
+  "numero": 54,
+  "bloque": "Semanas 43–75",
+  "parasha": "Mishpatim",
+  "porcion": "Éxodo 21:1–24:18 (Parte 3/3)",
+  "otrosLibros": "Salmos 81-87",
+  "complementaria": "Hebreos 4:14-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Éxodo 38:1–38:20",
+    "otros": "Salmo 81"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Éxodo 38:21–38:31",
+    "otros": "Salmo 82"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Éxodo 39:1–39:31",
+    "otros": "Salmo 83"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Éxodo 39:32–39:43",
+    "otros": "Salmo 84"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Éxodo 40:1–40:16",
+    "otros": "Salmo 85"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Éxodo 40:17–40:33",
+    "otros": "Salmo 86"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Éxodo 40:34–40:38",
+    "otros": "Salmo 87"
+   }
+  ]
+ },
+ {
+  "numero": 55,
+  "bloque": "Semanas 43–75",
+  "parasha": "Terumáh",
+  "porcion": "Éxodo 25:1–27:19 (Parte 1/3)",
+  "otrosLibros": "Salmos 88-94",
+  "complementaria": "1 Pedro 2:4-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 1:1–1:9",
+    "otros": "Salmo 88"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 1:10–1:17",
+    "otros": "Salmo 89"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 2:1–2:10",
+    "otros": "Salmo 90"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 2:11–2:16",
+    "otros": "Salmo 91"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 3:1–3:5",
+    "otros": "Salmo 92"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 3:6–3:11",
+    "otros": "Salmo 93"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 3:12–3:17",
+    "otros": "Salmo 94"
+   }
+  ]
+ },
+ {
+  "numero": 56,
+  "bloque": "Semanas 43–75",
+  "parasha": "Terumáh",
+  "porcion": "Éxodo 25:1–27:19 (Parte 2/3)",
+  "otrosLibros": "Salmos 95-101",
+  "complementaria": "Romanos 12:1-2",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 4:1–4:12",
+    "otros": "Salmo 95"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 4:13–4:21",
+    "otros": "Salmo 96"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 4:22–4:26",
+    "otros": "Salmo 97"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 4:27–4:35",
+    "otros": "Salmo 98"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 5:1–5:13",
+    "otros": "Salmo 99"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 5:14–5:19",
+    "otros": "Salmo 100"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 5:20–5:26",
+    "otros": "Salmo 101"
+   }
+  ]
+ },
+ {
+  "numero": 57,
+  "bloque": "Semanas 43–75",
+  "parasha": "Terumáh",
+  "porcion": "Éxodo 25:1–27:19 (Parte 3/3)",
+  "otrosLibros": "Salmos 102-108",
+  "complementaria": "2 Corintios 8:1-5",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 6:1–6:6",
+    "otros": "Salmo 102"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 6:7–6:16",
+    "otros": "Salmo 103"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 6:17–6:23",
+    "otros": "Salmo 104"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 6:24–6:30",
+    "otros": "Salmo 105"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 7:1–7:10",
+    "otros": "Salmo 106"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 7:11–7:27",
+    "otros": "Salmo 107"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 7:28–7:38",
+    "otros": "Salmo 108"
+   }
+  ]
+ },
+ {
+  "numero": 58,
+  "bloque": "Semanas 43–75",
+  "parasha": "Tetzaveh",
+  "porcion": "Éxodo 27:20–30:10 (Parte 1/3)",
+  "otrosLibros": "Salmos 109-115",
+  "complementaria": "Éxodo 35:30-35; 1 Corintios 12:4-11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 8:1–8:13",
+    "otros": "Salmo 109"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 8:14–8:21",
+    "otros": "Salmo 110"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 8:22–8:29",
+    "otros": "Salmo 111"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 8:30–8:36",
+    "otros": "Salmo 112"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 9:1–9:7",
+    "otros": "Salmo 113"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 9:8–9:21",
+    "otros": "Salmo 114"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 9:22–9:24",
+    "otros": "Salmo 115"
+   }
+  ]
+ },
+ {
+  "numero": 59,
+  "bloque": "Semanas 43–75",
+  "parasha": "Tetzaveh",
+  "porcion": "Éxodo 27:20–30:10 (Parte 2/3)",
+  "otrosLibros": "Salmos 116-122",
+  "complementaria": "Juan 1:14; Apocalipsis 15:5-8",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 10:1–10:5",
+    "otros": "Salmo 116"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 10:6–10:11",
+    "otros": "Salmo 117"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 10:12–10:20",
+    "otros": "Salmo 118"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 11:1–11:8",
+    "otros": "Salmo 119:1-48"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 11:9–11:23",
+    "otros": "Salmo 119:49-104"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 11:24–11:40",
+    "otros": "Salmo 119:105-176"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 11:41–11:47",
+    "otros": "Salmos 120-122"
+   }
+  ]
+ },
+ {
+  "numero": 60,
+  "bloque": "Semanas 43–75",
+  "parasha": "Tetzaveh",
+  "porcion": "Éxodo 27:20–30:10 (Parte 3/3)",
+  "otrosLibros": "Salmos 123-129",
+  "complementaria": "Hebreos 10:1-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 12:1–12:8",
+    "otros": "Salmo 123"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 13:1–13:8",
+    "otros": "Salmo 124"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 13:9–13:17",
+    "otros": "Salmo 125"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 13:18–13:28",
+    "otros": "Salmo 126"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 13:29–13:39",
+    "otros": "Salmo 127"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 13:40–13:46",
+    "otros": "Salmo 128"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 13:47–13:59",
+    "otros": "Salmo 129"
+   }
+  ]
+ },
+ {
+  "numero": 61,
+  "bloque": "Semanas 43–75",
+  "parasha": "Ki Tisá",
+  "porcion": "Éxodo 30:11–34:35 (Parte 1/3)",
+  "otrosLibros": "Salmos 130-136",
+  "complementaria": "Hebreos 9:11-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 14:1–14:9",
+    "otros": "Salmo 130"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 14:10–14:20",
+    "otros": "Salmo 131"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 14:21–14:32",
+    "otros": "Salmo 132"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 14:33–14:42",
+    "otros": "Salmo 133"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 14:43–14:48",
+    "otros": "Salmo 134"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 14:49–14:53",
+    "otros": "Salmo 135"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 14:54–14:57",
+    "otros": "Salmo 136"
+   }
+  ]
+ },
+ {
+  "numero": 62,
+  "bloque": "Semanas 43–75",
+  "parasha": "Ki Tisá",
+  "porcion": "Éxodo 30:11–34:35 (Parte 2/3)",
+  "otrosLibros": "Salmos 137-143",
+  "complementaria": "Efesios 5:2",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 15:1–15:12",
+    "otros": "Salmo 137"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 15:13–15:15",
+    "otros": "Salmo 138"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 15:16–15:18",
+    "otros": "Salmo 139"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 15:19–15:24",
+    "otros": "Salmo 140"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 15:25–15:30",
+    "otros": "Salmo 141"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 15:31",
+    "otros": "Salmo 142"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 15:32–15:33",
+    "otros": "Salmo 143"
+   }
+  ]
+ },
+ {
+  "numero": 63,
+  "bloque": "Semanas 43–75",
+  "parasha": "Ki Tisá",
+  "porcion": "Éxodo 30:11–34:35 (Parte 3/3)",
+  "otrosLibros": "Salmos 144-150",
+  "complementaria": "1 Juan 1:7-9",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 16:1–16:5",
+    "otros": "Salmo 144"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 16:6–16:10",
+    "otros": "Salmo 145"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 16:11–16:14",
+    "otros": "Salmo 146"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 16:15–16:19",
+    "otros": "Salmo 147"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 16:20–16:22",
+    "otros": "Salmo 148"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 16:23–16:28",
+    "otros": "Salmo 149"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 16:29–16:34",
+    "otros": "Salmo 150"
+   }
+  ]
+ },
+ {
+  "numero": 64,
+  "bloque": "Semanas 43–75",
+  "parasha": "Vayakhel",
+  "porcion": "Éxodo 35:1–38:20 (Parte 1/3)",
+  "otrosLibros": "Proverbios 1-7",
+  "complementaria": "Hebreos 4:14-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 17:1–17:7",
+    "otros": "Proverbios 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 17:8–17:9",
+    "otros": "Proverbios 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 17:10–17:12",
+    "otros": "Proverbios 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 17:13–17:14",
+    "otros": "Proverbios 4"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 17:15–17:16",
+    "otros": "Proverbios 5"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 18:1–18:5",
+    "otros": "Proverbios 6"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 18:6–18:18",
+    "otros": "Proverbios 7"
+   }
+  ]
+ },
+ {
+  "numero": 65,
+  "bloque": "Semanas 43–75",
+  "parasha": "Vayakhel",
+  "porcion": "Éxodo 35:1–38:20 (Parte 2/3)",
+  "otrosLibros": "Proverbios 8-14",
+  "complementaria": "Hebreos 7:23-28",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 18:19–18:30",
+    "otros": "Proverbios 8"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 19:1–19:4",
+    "otros": "Proverbios 9"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 19:5–19:8",
+    "otros": "Proverbios 10"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 19:9–19:10",
+    "otros": "Proverbios 11"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 19:11–19:14",
+    "otros": "Proverbios 12"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 19:15–19:16",
+    "otros": "Proverbios 13"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 19:17–19:18",
+    "otros": "Proverbios 14"
+   }
+  ]
+ },
+ {
+  "numero": 66,
+  "bloque": "Semanas 43–75",
+  "parasha": "Vayakhel",
+  "porcion": "Éxodo 35:1–38:20 (Parte 3/3)",
+  "otrosLibros": "Proverbios 15-21",
+  "complementaria": "Hebreos 8:1-6",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 19:19–19:25",
+    "otros": "Proverbios 15"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 19:26–19:31",
+    "otros": "Proverbios 16"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 19:32–19:37",
+    "otros": "Proverbios 17"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 20:1–20:8",
+    "otros": "Proverbios 18"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 20:9–20:16",
+    "otros": "Proverbios 19"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 20:17–20:21",
+    "otros": "Proverbios 20"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 20:22–20:27",
+    "otros": "Proverbios 21"
+   }
+  ]
+ },
+ {
+  "numero": 67,
+  "bloque": "Semanas 43–75",
+  "parasha": "Pekudei",
+  "porcion": "Éxodo 38:21–40:38 (Parte 1/3)",
+  "otrosLibros": "Proverbios 22-27",
+  "complementaria": "Hebreos 5:1-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 21:1–21:9",
+    "otros": "Proverbios 22"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 21:10–21:15",
+    "otros": "Proverbios 23"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 21:16–21:24",
+    "otros": "Proverbios 24"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 22:1–22:9",
+    "otros": "Proverbios 25"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 22:10–22:13",
+    "otros": "Proverbios 26"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 22:14–22:16",
+    "otros": "Proverbios 27"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 22:17–22:25",
+    "otros": "Proverbios 27:23-27"
+   }
+  ]
+ },
+ {
+  "numero": 68,
+  "bloque": "Semanas 43–75",
+  "parasha": "Pekudei",
+  "porcion": "Éxodo 38:21–40:38 (Parte 2/3)",
+  "otrosLibros": "Proverbios 28-31; Eclesiastés 1-2",
+  "complementaria": "Levítico 9:22-24; Hebreos 12:28-29",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 22:26–22:33",
+    "otros": "Proverbios 28"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 23:1–23:4",
+    "otros": "Proverbios 29"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 23:5–23:8",
+    "otros": "Proverbios 30"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 23:9–23:14",
+    "otros": "Proverbios 31"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 23:15–23:21",
+    "otros": "Eclesiastés 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 23:22",
+    "otros": "Eclesiastés 2"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 23:23–23:25",
+    "otros": "Eclesiastés 2:24-26"
+   }
+  ]
+ },
+ {
+  "numero": 69,
+  "bloque": "Semanas 43–75",
+  "parasha": "Pekudei",
+  "porcion": "Éxodo 38:21–40:38 (Parte 3/3)",
+  "otrosLibros": "Eclesiastés 3-8",
+  "complementaria": "Levítico 10:1-3; 1 Pedro 1:15-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 23:26–23:32",
+    "otros": "Eclesiastés 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 23:33–23:38",
+    "otros": "Eclesiastés 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 23:39–23:44",
+    "otros": "Eclesiastés 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 24:1–24:4",
+    "otros": "Eclesiastés 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 24:5–24:9",
+    "otros": "Eclesiastés 7"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 24:10–24:16",
+    "otros": "Eclesiastés 8"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 24:17–24:23",
+    "otros": "Eclesiastés 8:12-17"
+   }
+  ]
+ },
+ {
+  "numero": 70,
+  "bloque": "Semanas 43–75",
+  "parasha": "Vayikrá",
+  "porcion": "Levítico 1:1–5:26 (Parte 1/3)",
+  "otrosLibros": "Eclesiastés 9-12; Cantares 1-2",
+  "complementaria": "Marcos 7:14-23",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 25:1–25:7",
+    "otros": "Eclesiastés 9"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 25:8–25:13",
+    "otros": "Eclesiastés 10"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 25:14–25:18",
+    "otros": "Eclesiastés 11"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 25:19–25:22",
+    "otros": "Eclesiastés 12"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 25:23–25:28",
+    "otros": "Cantares 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 25:29–25:34",
+    "otros": "Cantares 2"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "REFLEXIÓN",
+    "otros": "Cantares 2:15-17"
+   }
+  ]
+ },
+ {
+  "numero": 71,
+  "bloque": "Semanas 43–75",
+  "parasha": "Vayikrá",
+  "porcion": "Levítico 1:1–5:26 (Parte 2/3)",
+  "otrosLibros": "Cantares 3-8",
+  "complementaria": "Lucas 2:22-24",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 25:35–25:38",
+    "otros": "Cantares 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 25:39–25:43",
+    "otros": "Cantares 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 25:44–25:46",
+    "otros": "Cantares 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 25:47–25:55",
+    "otros": "Cantares 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 26:1",
+    "otros": "Cantares 7"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 26:2",
+    "otros": "Cantares 8:1-7"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 26:2 (Reflexión)",
+    "otros": "Cantares 8:8-14"
+   }
+  ]
+ },
+ {
+  "numero": 72,
+  "bloque": "Semanas 43–75",
+  "parasha": "Vayikrá",
+  "porcion": "Levítico 1:1–5:26 (Parte 3/3)",
+  "otrosLibros": "Isaías 1-6",
+  "complementaria": "Marcos 1:40-45",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 26:3–26:13",
+    "otros": "Isaías 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 26:14–26:17",
+    "otros": "Isaías 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 26:18–26:22",
+    "otros": "Isaías 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 26:23–26:26",
+    "otros": "Isaías 4"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 26:27–26:39",
+    "otros": "Isaías 5"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 26:40–26:45",
+    "otros": "Isaías 6:1-8"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 26:46",
+    "otros": "Isaías 6:9-13"
+   }
+  ]
+ },
+ {
+  "numero": 73,
+  "bloque": "Semanas 43–75",
+  "parasha": "Tzav",
+  "porcion": "Levítico 6:1–8:36 (Parte 1/3)",
+  "otrosLibros": "Isaías 7-12",
+  "complementaria": "Lucas 17:11-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 27:1–27:8",
+    "otros": "Isaías 7"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 27:9–27:13",
+    "otros": "Isaías 8"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 27:14–27:21",
+    "otros": "Isaías 9"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 27:22–27:25",
+    "otros": "Isaías 10"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 27:26–27:29",
+    "otros": "Isaías 11"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 27:30–27:33",
+    "otros": "Isaías 12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 27:34",
+    "otros": "Isaías 12:4-6"
+   }
+  ]
+ },
+ {
+  "numero": 74,
+  "bloque": "Semanas 43–75",
+  "parasha": "Tzav",
+  "porcion": "Levítico 6:1–8:36 (Parte 2/3)",
+  "otrosLibros": "Isaías 13-18",
+  "complementaria": "Marcos 5:25-34",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 1:1–1:19",
+    "otros": "Isaías 13"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 1:20–1:31",
+    "otros": "Isaías 14"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 1:32–1:43",
+    "otros": "Isaías 15"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 1:44–1:54",
+    "otros": "Isaías 16"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 2:1–2:9",
+    "otros": "Isaías 17"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 2:10–2:17",
+    "otros": "Isaías 18"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 2:18–2:34",
+    "otros": "Isaías 18:7"
+   }
+  ]
+ },
+ {
+  "numero": 75,
+  "bloque": "Semanas 43–75",
+  "parasha": "Tzav",
+  "porcion": "Levítico 6:1–8:36 (Parte 3/3)",
+  "otrosLibros": "Isaías 19-24",
+  "complementaria": "Hebreos 9:6-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 3:1–3:13",
+    "otros": "Isaías 19"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 3:14–3:26",
+    "otros": "Isaías 20"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 3:27–3:32",
+    "otros": "Isaías 21"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 3:33–3:39",
+    "otros": "Isaías 22"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 3:40–3:51",
+    "otros": "Isaías 23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 4:1–4:15",
+    "otros": "Isaías 24:1-15"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 4:16–4:20",
+    "otros": "Isaías 24:16-23"
+   }
+  ]
+ },
+ {
+  "numero": 76,
+  "bloque": "Semanas 76–95",
+  "parasha": "Shmini",
+  "porcion": "Levítico 9:1–11:47 (Parte 1/3)",
+  "otrosLibros": "Isaías 25-30",
+  "complementaria": "Hechos 15:19-21",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 4:21–4:33",
+    "otros": "Isaías 25"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 4:34–4:49",
+    "otros": "Isaías 26"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 5:1–5:4",
+    "otros": "Isaías 27"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 5:5–5:10",
+    "otros": "Isaías 28"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 5:11–5:22",
+    "otros": "Isaías 29"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 5:23–5:28",
+    "otros": "Isaías 30:1-17"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 5:29–5:31",
+    "otros": "Isaías 30:18-33"
+   }
+  ]
+ },
+ {
+  "numero": 77,
+  "bloque": "Semanas 76–95",
+  "parasha": "Shmini",
+  "porcion": "Levítico 9:1–11:47 (Parte 2/3)",
+  "otrosLibros": "Isaías 31-36",
+  "complementaria": "1 Corintios 6:9-11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 6:1–6:12",
+    "otros": "Isaías 31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 6:13–6:21",
+    "otros": "Isaías 32"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 6:22–6:27",
+    "otros": "Isaías 33"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 7:1–7:17",
+    "otros": "Isaías 34"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 7:18–7:47",
+    "otros": "Isaías 35"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 7:48–7:77",
+    "otros": "Isaías 36:1-10"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 7:78–7:89",
+    "otros": "Isaías 36:11-22"
+   }
+  ]
+ },
+ {
+  "numero": 78,
+  "bloque": "Semanas 76–95",
+  "parasha": "Shmini",
+  "porcion": "Levítico 9:1–11:47 (Parte 3/3)",
+  "otrosLibros": "Isaías 37-42",
+  "complementaria": "1 Pedro 1:14-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 8:1–8:4",
+    "otros": "Isaías 37"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 8:5–8:19",
+    "otros": "Isaías 38"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 8:20–8:26",
+    "otros": "Isaías 39"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 9:1–9:5",
+    "otros": "Isaías 40"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 9:6–9:14",
+    "otros": "Isaías 41"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 9:15–9:18",
+    "otros": "Isaías 42:1-9"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 9:19–9:23",
+    "otros": "Isaías 42:10-25"
+   }
+  ]
+ },
+ {
+  "numero": 79,
+  "bloque": "Semanas 76–95",
+  "parasha": "Tazria",
+  "porcion": "Levítico 12:1–13:59 (Parte 1/3)",
+  "otrosLibros": "Isaías 43-48",
+  "complementaria": "Romanos 1:24-27",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 10:1–10:10",
+    "otros": "Isaías 43"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 10:11–10:28",
+    "otros": "Isaías 44"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 10:29–10:36",
+    "otros": "Isaías 45"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 11:1–11:9",
+    "otros": "Isaías 46"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 11:10–11:17",
+    "otros": "Isaías 47"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 11:18–11:29",
+    "otros": "Isaías 48:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 11:30–11:35",
+    "otros": "Isaías 48:12-22"
+   }
+  ]
+ },
+ {
+  "numero": 80,
+  "bloque": "Semanas 76–95",
+  "parasha": "Tazria",
+  "porcion": "Levítico 12:1–13:59 (Parte 2/3)",
+  "otrosLibros": "Isaías 49-54",
+  "complementaria": "1 Corintios 5:1-8",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 12:1–12:8",
+    "otros": "Isaías 49"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 12:9–12:16",
+    "otros": "Isaías 50"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 13:1–13:16",
+    "otros": "Isaías 51"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 13:17–13:20",
+    "otros": "Isaías 52"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 13:21–13:25",
+    "otros": "Isaías 53"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 13:26–13:29",
+    "otros": "Isaías 54:1-10"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 13:30–13:33",
+    "otros": "Isaías 54:11-17"
+   }
+  ]
+ },
+ {
+  "numero": 81,
+  "bloque": "Semanas 76–95",
+  "parasha": "Tazria",
+  "porcion": "Levítico 12:1–13:59 (Parte 3/3)",
+  "otrosLibros": "Isaías 55-60",
+  "complementaria": "1 Corintios 6:12-20",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 14:1–14:10",
+    "otros": "Isaías 55"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 14:11–14:19",
+    "otros": "Isaías 56"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 14:20–14:25",
+    "otros": "Isaías 57"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 14:26–14:38",
+    "otros": "Isaías 58"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 14:39–14:45",
+    "otros": "Isaías 59"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 15:1–15:12",
+    "otros": "Isaías 60:1-12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 15:13–15:16",
+    "otros": "Isaías 60:13-22"
+   }
+  ]
+ },
+ {
+  "numero": 82,
+  "bloque": "Semanas 76–95",
+  "parasha": "Metzorá",
+  "porcion": "Levítico 14:1–15:33 (Parte 1/3)",
+  "otrosLibros": "Isaías 61-66",
+  "complementaria": "Hebreos 10:19-25",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 15:17–15:21",
+    "otros": "Isaías 61"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 15:22–15:31",
+    "otros": "Isaías 62"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 15:32–15:36",
+    "otros": "Isaías 63"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 15:37–15:41",
+    "otros": "Isaías 64"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 16:1–16:7",
+    "otros": "Isaías 65"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 16:8–16:11",
+    "otros": "Isaías 66:1-14"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 16:12–16:19",
+    "otros": "Isaías 66:15-24"
+   }
+  ]
+ },
+ {
+  "numero": 83,
+  "bloque": "Semanas 76–95",
+  "parasha": "Metzorá",
+  "porcion": "Levítico 14:1–15:33 (Parte 2/3)",
+  "otrosLibros": "Jeremías 1-6",
+  "complementaria": "Lucas 4:16-21",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 16:20–16:30",
+    "otros": "Jeremías 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 16:31–16:35",
+    "otros": "Jeremías 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 16:36–16:40",
+    "otros": "Jeremías 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 16:41–16:50",
+    "otros": "Jeremías 4"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 17:1–17:13",
+    "otros": "Jeremías 5"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 18:1–18:4",
+    "otros": "Jeremías 6:1-15"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 18:5–18:7",
+    "otros": "Jeremías 6:16-30"
+   }
+  ]
+ },
+ {
+  "numero": 84,
+  "bloque": "Semanas 76–95",
+  "parasha": "Metzorá",
+  "porcion": "Levítico 14:1–15:33 (Parte 3/3)",
+  "otrosLibros": "Jeremías 7-12",
+  "complementaria": "Lucas 4:18-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 18:8–18:19",
+    "otros": "Jeremías 7"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 18:20–18:24",
+    "otros": "Jeremías 8"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 18:25–18:32",
+    "otros": "Jeremías 9"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 19:1–19:10",
+    "otros": "Jeremías 10"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 19:11–19:16",
+    "otros": "Jeremías 11"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 19:17–19:22",
+    "otros": "Jeremías 12:1-6"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 20:1–20:6",
+    "otros": "Jeremías 12:7-17"
+   }
+  ]
+ },
+ {
+  "numero": 85,
+  "bloque": "Semanas 76–95",
+  "parasha": "Ajaréi Mot",
+  "porcion": "Levítico 16:1–18:30 (Parte 1/3)",
+  "otrosLibros": "Jeremías 13-18",
+  "complementaria": "Jeremías 31:31-34",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 20:7–20:13",
+    "otros": "Jeremías 13"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 20:14–20:21",
+    "otros": "Jeremías 14"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 20:22–20:29",
+    "otros": "Jeremías 15"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 21:1–21:3",
+    "otros": "Jeremías 16"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 21:4–21:9",
+    "otros": "Jeremías 17"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 21:10–21:16",
+    "otros": "Jeremías 18:1-12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 21:17–21:20",
+    "otros": "Jeremías 18:13-23"
+   }
+  ]
+ },
+ {
+  "numero": 86,
+  "bloque": "Semanas 76–95",
+  "parasha": "Ajaréi Mot",
+  "porcion": "Levítico 16:1–18:30 (Parte 2/3)",
+  "otrosLibros": "Jeremías 19-24",
+  "complementaria": "Gálatas 3:10-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 21:21–21:30",
+    "otros": "Jeremías 19"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 21:31–21:35",
+    "otros": "Jeremías 20"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 22:1–22:7",
+    "otros": "Jeremías 21"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 22:8–22:14",
+    "otros": "Jeremías 22"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 22:15–22:21",
+    "otros": "Jeremías 23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 22:22–22:30",
+    "otros": "Jeremías 24:1-7"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 22:31–22:35",
+    "otros": "Jeremías 24:8-10"
+   }
+  ]
+ },
+ {
+  "numero": 87,
+  "bloque": "Semanas 76–95",
+  "parasha": "Ajaréi Mot",
+  "porcion": "Levítico 16:1–18:30 (Parte 3/3)",
+  "otrosLibros": "Jeremías 25-30",
+  "complementaria": "Números 1:1-4; Lucas 10:1-2",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 22:36–23:6",
+    "otros": "Jeremías 25"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 23:7–23:12",
+    "otros": "Jeremías 26"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 23:13–23:26",
+    "otros": "Jeremías 27"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 23:27–24:9",
+    "otros": "Jeremías 28"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 24:10–24:14",
+    "otros": "Jeremías 29"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 24:15–24:19",
+    "otros": "Jeremías 30:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 24:20–24:25",
+    "otros": "Jeremías 30:12-24"
+   }
+  ]
+ },
+ {
+  "numero": 88,
+  "bloque": "Semanas 76–95",
+  "parasha": "Kedoshim",
+  "porcion": "Levítico 19:1–20:27 (Parte 1/3)",
+  "otrosLibros": "Jeremías 31-36",
+  "complementaria": "Números 2:1-2; Apocalipsis 7:4-8",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 25:1–25:5",
+    "otros": "Jeremías 31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 25:6–25:15",
+    "otros": "Jeremías 32"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 25:16–25:18",
+    "otros": "Jeremías 33"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 26:1–26:19",
+    "otros": "Jeremías 34"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 26:20–26:37",
+    "otros": "Jeremías 35"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 26:38–26:51",
+    "otros": "Jeremías 36:1-19"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 26:52–26:65",
+    "otros": "Jeremías 36:20-32"
+   }
+  ]
+ },
+ {
+  "numero": 89,
+  "bloque": "Semanas 76–95",
+  "parasha": "Kedoshim",
+  "porcion": "Levítico 19:1–20:27 (Parte 2/3)",
+  "otrosLibros": "Jeremías 37-42",
+  "complementaria": "1 Corintios 12:12-27",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 27:1–27:11",
+    "otros": "Jeremías 37"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 27:12–27:17",
+    "otros": "Jeremías 38"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 27:18–27:23",
+    "otros": "Jeremías 39"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 28:1–28:8",
+    "otros": "Jeremías 40"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 28:9–28:15",
+    "otros": "Jeremías 41"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 28:16–28:25",
+    "otros": "Jeremías 42:1-12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 28:26–28:31",
+    "otros": "Jeremías 42:13-22"
+   }
+  ]
+ },
+ {
+  "numero": 90,
+  "bloque": "Semanas 76–95",
+  "parasha": "Kedoshim",
+  "porcion": "Levítico 19:1–20:27 (Parte 3/3)",
+  "otrosLibros": "Jeremías 43-48",
+  "complementaria": "2 Corintios 6:14-18",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 29:1–29:6",
+    "otros": "Jeremías 43"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 29:7–29:11",
+    "otros": "Jeremías 44"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 29:12–29:22",
+    "otros": "Jeremías 45"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 29:23–29:34",
+    "otros": "Jeremías 46"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 29:35–30:1",
+    "otros": "Jeremías 47"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 30:2–30:9",
+    "otros": "Jeremías 48:1-25"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 30:10–30:17",
+    "otros": "Jeremías 48:26-47"
+   }
+  ]
+ },
+ {
+  "numero": 91,
+  "bloque": "Semanas 76–95",
+  "parasha": "Emor",
+  "porcion": "Levítico 21:1–24:23 (Parte 1/3)",
+  "otrosLibros": "Jeremías 49-52; Lamentaciones 1-2",
+  "complementaria": "Números 5:5-10; 1 Juan 1:9",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 31:1–31:12",
+    "otros": "Jeremías 49"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 31:13–31:24",
+    "otros": "Jeremías 50"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 31:25–31:47",
+    "otros": "Jeremías 51"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 31:48–31:54",
+    "otros": "Jeremías 52"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 32:1–32:19",
+    "otros": "Lamentaciones 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 32:20–32:32",
+    "otros": "Lamentaciones 2:1-10"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 32:33–32:42",
+    "otros": "Lamentaciones 2:11-22"
+   }
+  ]
+ },
+ {
+  "numero": 92,
+  "bloque": "Semanas 76–95",
+  "parasha": "Emor",
+  "porcion": "Levítico 21:1–24:23 (Parte 2/3)",
+  "otrosLibros": "Lamentaciones 3-5; Ezequiel 1-3",
+  "complementaria": "Números 6:22-27",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 33:1–33:15",
+    "otros": "Lamentaciones 3:1-33"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 33:16–33:36",
+    "otros": "Lamentaciones 3:34-66"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 33:37–33:49",
+    "otros": "Lamentaciones 4"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 33:50–33:56",
+    "otros": "Lamentaciones 5"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 34:1–34:12",
+    "otros": "Ezequiel 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 34:13–34:15",
+    "otros": "Ezequiel 2"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 34:16–34:29",
+    "otros": "Ezequiel 3"
+   }
+  ]
+ },
+ {
+  "numero": 93,
+  "bloque": "Semanas 76–95",
+  "parasha": "Emor",
+  "porcion": "Levítico 21:1–24:23 (Parte 3/3)",
+  "otrosLibros": "Ezequiel 4-9",
+  "complementaria": "Números 7:1-11; Hebreos 9:1-5",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Números 35:1–35:8",
+    "otros": "Ezequiel 4"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Números 35:9–35:15",
+    "otros": "Ezequiel 5"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Números 35:16–35:24",
+    "otros": "Ezequiel 6"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Números 35:25–35:34",
+    "otros": "Ezequiel 7"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Números 36:1–36:9",
+    "otros": "Ezequiel 8"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Números 36:10–36:12",
+    "otros": "Ezequiel 9:1-7"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Números 36:13",
+    "otros": "Ezequiel 9:8-11"
+   }
+  ]
+ },
+ {
+  "numero": 94,
+  "bloque": "Semanas 76–95",
+  "parasha": "Behar",
+  "porcion": "Levítico 25:1–26:2 (Parte 1/2)",
+  "otrosLibros": "Ezequiel 10-15",
+  "complementaria": "Números 8:5-22; Romanos 12:1",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 1:1–1:8",
+    "otros": "Ezequiel 10"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 1:9–1:18",
+    "otros": "Ezequiel 11"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 1:19–1:25",
+    "otros": "Ezequiel 12"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 1:26–1:33",
+    "otros": "Ezequiel 13"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 1:34–1:40",
+    "otros": "Ezequiel 14"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 1:41–1:46",
+    "otros": "Ezequiel 15"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 1:46 (Reflexión)",
+    "otros": "Ezequiel 15:6-8"
+   }
+  ]
+ },
+ {
+  "numero": 95,
+  "bloque": "Semanas 76–95",
+  "parasha": "Behar",
+  "porcion": "Levítico 25:1–26:2 (Parte 2/2)",
+  "otrosLibros": "Ezequiel 16-21",
+  "complementaria": "Números 9:15-23; Juan 1:14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 2:1–2:13",
+    "otros": "Ezequiel 16"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 2:14–2:23",
+    "otros": "Ezequiel 17"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 2:24–2:37",
+    "otros": "Ezequiel 18"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 3:1–3:11",
+    "otros": "Ezequiel 19"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 3:12–3:17",
+    "otros": "Ezequiel 20"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 3:18–3:22",
+    "otros": "Ezequiel 21:1-17"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 3:22 (Cierre)",
+    "otros": "Ezequiel 21:18-32"
+   }
+  ]
+ },
+ {
+  "numero": 96,
+  "bloque": "Semanas 96–156",
+  "parasha": "Bechukotai",
+  "porcion": "Levítico 26:3–27:34 (Parte 1/2)",
+  "otrosLibros": "Ezequiel 22-27",
+  "complementaria": "Números 10:1-10; 1 Tesalonicenses 4:16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 3:23–3:29",
+    "otros": "Ezequiel 22"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 4:1–4:4",
+    "otros": "Ezequiel 23"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 4:5–4:8",
+    "otros": "Ezequiel 24"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 4:9–4:10",
+    "otros": "Ezequiel 25"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 4:11–4:12",
+    "otros": "Ezequiel 26"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 4:13–4:14",
+    "otros": "Ezequiel 27:1-25"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 4:15–4:20",
+    "otros": "Ezequiel 27:26-36"
+   }
+  ]
+ },
+ {
+  "numero": 97,
+  "bloque": "Semanas 96–156",
+  "parasha": "Bechukotai",
+  "porcion": "Levítico 26:3–27:34 (Parte 2/2)",
+  "otrosLibros": "Ezequiel 28-33",
+  "complementaria": "1 Corintios 10:1-13",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 4:21–4:24",
+    "otros": "Ezequiel 28"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 4:25–4:28",
+    "otros": "Ezequiel 29"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 4:29–4:31",
+    "otros": "Ezequiel 30"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 4:32–4:35",
+    "otros": "Ezequiel 31"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 4:36–4:40",
+    "otros": "Ezequiel 32"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 4:41–4:43",
+    "otros": "Ezequiel 33:1-20"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 4:44–4:49",
+    "otros": "Ezequiel 33:21-33"
+   }
+  ]
+ },
+ {
+  "numero": 98,
+  "bloque": "Semanas 96–156",
+  "parasha": "Bamidbar",
+  "porcion": "Números 1:1–4:20 (Parte 1/3)",
+  "otrosLibros": "Ezequiel 34-39",
+  "complementaria": "Números 12:1-10; Santiago 4:11-12",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 5:1–5:5",
+    "otros": "Ezequiel 34"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 5:6–5:10",
+    "otros": "Ezequiel 35"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 5:11",
+    "otros": "Ezequiel 36"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 5:12–5:15",
+    "otros": "Ezequiel 37"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 5:16",
+    "otros": "Ezequiel 38"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 5:17–5:20",
+    "otros": "Ezequiel 39:1-16"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 5:21",
+    "otros": "Ezequiel 39:17-29"
+   }
+  ]
+ },
+ {
+  "numero": 99,
+  "bloque": "Semanas 96–156",
+  "parasha": "Bamidbar",
+  "porcion": "Números 1:1–4:20 (Parte 2/3)",
+  "otrosLibros": "Ezequiel 40-45",
+  "complementaria": "Números 13:25-33; Hebreos 3:7-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 5:22–5:27",
+    "otros": "Ezequiel 40"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 5:28–5:33",
+    "otros": "Ezequiel 41"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 6:1–6:3",
+    "otros": "Ezequiel 42"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 6:4–6:5",
+    "otros": "Ezequiel 43"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 6:6–6:7",
+    "otros": "Ezequiel 44"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 6:8",
+    "otros": "Ezequiel 45:1-12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 6:9",
+    "otros": "Ezequiel 45:13-25"
+   }
+  ]
+ },
+ {
+  "numero": 100,
+  "bloque": "Semanas 96–156",
+  "parasha": "Bamidbar",
+  "porcion": "Números 1:1–4:20 (Parte 3/3)",
+  "otrosLibros": "Ezequiel 46-48; Daniel 1-3",
+  "complementaria": "Salmo 95:7-11; Hebreos 4:1-11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 6:10–6:15",
+    "otros": "Ezequiel 46"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 6:16–6:19",
+    "otros": "Ezequiel 47"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 6:20–6:25",
+    "otros": "Ezequiel 48"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 7:1–7:5",
+    "otros": "Daniel 1"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 7:6",
+    "otros": "Daniel 2:1-30"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 7:7–7:9",
+    "otros": "Daniel 2:31-49"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 7:10–7:11",
+    "otros": "Daniel 3:1-30"
+   }
+  ]
+ },
+ {
+  "numero": 101,
+  "bloque": "Semanas 96–156",
+  "parasha": "Nasó",
+  "porcion": "Números 4:21–7:89 (Parte 1/3)",
+  "otrosLibros": "Daniel 4-9",
+  "complementaria": "1 Corintios 10:1-13",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 7:12–7:16",
+    "otros": "Daniel 4"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 7:17–7:21",
+    "otros": "Daniel 5"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 7:22–7:26",
+    "otros": "Daniel 6"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 8:1–8:3",
+    "otros": "Daniel 7"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 8:4–8:6",
+    "otros": "Daniel 8"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 8:7–8:9",
+    "otros": "Daniel 9:1-19"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 8:10",
+    "otros": "Daniel 9:20-27"
+   }
+  ]
+ },
+ {
+  "numero": 102,
+  "bloque": "Semanas 96–156",
+  "parasha": "Nasó",
+  "porcion": "Números 4:21–7:89 (Parte 2/3)",
+  "otrosLibros": "Daniel 10-12; Oseas 1-3",
+  "complementaria": "Números 16:1-11; Judas 11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 8:11–8:16",
+    "otros": "Daniel 10"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 8:17–8:20",
+    "otros": "Daniel 11:1-20"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 9:1–9:3",
+    "otros": "Daniel 11:21-45"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 9:4–9:6",
+    "otros": "Daniel 12"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 9:7–9:9",
+    "otros": "Oseas 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 9:10–9:11",
+    "otros": "Oseas 2"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 9:12",
+    "otros": "Oseas 3"
+   }
+  ]
+ },
+ {
+  "numero": 103,
+  "bloque": "Semanas 96–156",
+  "parasha": "Nasó",
+  "porcion": "Números 4:21–7:89 (Parte 3/3)",
+  "otrosLibros": "Oseas 4-9",
+  "complementaria": "Hebreos 5:1-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 9:13–9:17",
+    "otros": "Oseas 4"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 9:18–9:21",
+    "otros": "Oseas 5"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 9:22–9:24",
+    "otros": "Oseas 6"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 9:25–9:29",
+    "otros": "Oseas 7"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 10:1–10:3",
+    "otros": "Oseas 8"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 10:4–10:7",
+    "otros": "Oseas 9:1-9"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 10:8–10:11",
+    "otros": "Oseas 9:10-17"
+   }
+  ]
+ },
+ {
+  "numero": 104,
+  "bloque": "Semanas 96–156",
+  "parasha": "Beha'alotja",
+  "porcion": "Números 8:1–12:16 (Parte 1/3)",
+  "otrosLibros": "Oseas 10-14; Joel 1",
+  "complementaria": "Hebreos 7:1-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 10:12–10:15",
+    "otros": "Oseas 10"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 10:16–10:19",
+    "otros": "Oseas 11"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 10:20–10:22",
+    "otros": "Oseas 12"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 11:1–11:7",
+    "otros": "Oseas 13"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 11:8–11:9",
+    "otros": "Oseas 14"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 11:10–11:11",
+    "otros": "Joel 1:1-12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 11:12",
+    "otros": "Joel 1:13-20"
+   }
+  ]
+ },
+ {
+  "numero": 105,
+  "bloque": "Semanas 96–156",
+  "parasha": "Beha'alotja",
+  "porcion": "Números 8:1–12:16 (Parte 2/3)",
+  "otrosLibros": "Joel 2-3; Amós 1-4",
+  "complementaria": "Números 19:1-10; Hebreos 9:13-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 11:13–11:17",
+    "otros": "Joel 2:1-17"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 11:18–11:21",
+    "otros": "Joel 2:18-32"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 11:22–11:25",
+    "otros": "Joel 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 11:26–11:32",
+    "otros": "Amós 1"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 12:1–12:3",
+    "otros": "Amós 2"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 12:4–12:7",
+    "otros": "Amós 3"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 12:8–12:12",
+    "otros": "Amós 4"
+   }
+  ]
+ },
+ {
+  "numero": 106,
+  "bloque": "Semanas 96–156",
+  "parasha": "Beha'alotja",
+  "porcion": "Números 8:1–12:16 (Parte 3/3)",
+  "otrosLibros": "Amós 5-9; Abdías 1",
+  "complementaria": "Números 20:1-13; 1 Corintios 10:4",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 12:13–12:19",
+    "otros": "Amós 5"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 12:20–12:25",
+    "otros": "Amós 6"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 12:26–12:28",
+    "otros": "Amós 7"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 12:29–12:32",
+    "otros": "Amós 8"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 13:1–13:3",
+    "otros": "Amós 9"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 13:4",
+    "otros": "Abdías 1:1-14"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 13:5",
+    "otros": "Abdías 1:15-21"
+   }
+  ]
+ },
+ {
+  "numero": 107,
+  "bloque": "Semanas 96–156",
+  "parasha": "Sh'laj Lejá",
+  "porcion": "Números 13:1–15:41 (Parte 1/3)",
+  "otrosLibros": "Jonás 1-4; Miqueas 1-2",
+  "complementaria": "Juan 3:14-17",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 13:6–13:11",
+    "otros": "Jonás 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 13:12–13:18",
+    "otros": "Jonás 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 14:1–14:2",
+    "otros": "Jonás 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 14:3–14:8",
+    "otros": "Jonás 4"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 14:9–14:10",
+    "otros": "Miqueas 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 14:11–14:20",
+    "otros": "Miqueas 2:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 14:21",
+    "otros": "Miqueas 2:12-13"
+   }
+  ]
+ },
+ {
+  "numero": 108,
+  "bloque": "Semanas 96–156",
+  "parasha": "Sh'laj Lejá",
+  "porcion": "Números 13:1–15:41 (Parte 2/3)",
+  "otrosLibros": "Miqueas 3-7; Nahúm 1",
+  "complementaria": "2 Pedro 2:15-16; Judas 11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 14:22–14:27",
+    "otros": "Miqueas 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 14:28–14:29",
+    "otros": "Miqueas 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 15:1–15:6",
+    "otros": "Miqueas 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 15:7–15:11",
+    "otros": "Miqueas 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 15:12–15:18",
+    "otros": "Miqueas 7"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 15:19–15:20",
+    "otros": "Nahúm 1:1-8"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 15:21–15:23",
+    "otros": "Nahúm 1:9-15"
+   }
+  ]
+ },
+ {
+  "numero": 109,
+  "bloque": "Semanas 96–156",
+  "parasha": "Sh'laj Lejá",
+  "porcion": "Números 13:1–15:41 (Parte 3/3)",
+  "otrosLibros": "Nahúm 2-3; Habacuc 1-3; Sofonías 1",
+  "complementaria": "Apocalipsis 2:14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 16:1–16:4",
+    "otros": "Nahúm 2"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 16:5–16:8",
+    "otros": "Nahúm 3"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 16:9–16:12",
+    "otros": "Habacuc 1"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 16:13–16:15",
+    "otros": "Habacuc 2"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 16:16–16:17",
+    "otros": "Habacuc 3"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 16:18–16:20",
+    "otros": "Sofonías 1:1-13"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 16:21–16:22",
+    "otros": "Sofonías 1:14-18"
+   }
+  ]
+ },
+ {
+  "numero": 110,
+  "bloque": "Semanas 96–156",
+  "parasha": "Kóraj",
+  "porcion": "Números 16:1–18:32 (Parte 1/3)",
+  "otrosLibros": "Sofonías 2-3; Hageo 1-2; Zacarías 1-2",
+  "complementaria": "2 Pedro 1:16-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 17:1",
+    "otros": "Sofonías 2"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 17:2–17:5",
+    "otros": "Sofonías 3"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 17:6–17:7",
+    "otros": "Hageo 1"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 17:8–17:11",
+    "otros": "Hageo 2"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 17:12–17:13",
+    "otros": "Zacarías 1:1-17"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 17:14–17:17",
+    "otros": "Zacarías 1:18-2:13"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 17:18–17:20",
+    "otros": "Zacarías 2:10-13"
+   }
+  ]
+ },
+ {
+  "numero": 111,
+  "bloque": "Semanas 96–156",
+  "parasha": "Kóraj",
+  "porcion": "Números 16:1–18:32 (Parte 2/3)",
+  "otrosLibros": "Zacarías 3-8",
+  "complementaria": "1 Corintios 10:8; Apocalipsis 2:14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 18:1–18:5",
+    "otros": "Zacarías 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 18:6–18:8",
+    "otros": "Zacarías 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 18:9–18:11",
+    "otros": "Zacarías 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 18:12–18:14",
+    "otros": "Zacarías 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 18:15–18:17",
+    "otros": "Zacarías 7"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 18:18–18:19",
+    "otros": "Zacarías 8:1-17"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 18:20–18:22",
+    "otros": "Zacarías 8:18-23"
+   }
+  ]
+ },
+ {
+  "numero": 112,
+  "bloque": "Semanas 96–156",
+  "parasha": "Kóraj",
+  "porcion": "Números 16:1–18:32 (Parte 3/3)",
+  "otrosLibros": "Zacarías 9-14",
+  "complementaria": "Hebreos 7:11-28",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 19:1–19:7",
+    "otros": "Zacarías 9"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 19:8–19:10",
+    "otros": "Zacarías 10"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 19:11–19:13",
+    "otros": "Zacarías 11"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 19:14",
+    "otros": "Zacarías 12"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 19:15–19:21",
+    "otros": "Zacarías 13"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 20:1–20:4",
+    "otros": "Zacarías 14:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 20:5–20:9",
+    "otros": "Zacarías 14:12-21"
+   }
+  ]
+ },
+ {
+  "numero": 113,
+  "bloque": "Semanas 96–156",
+  "parasha": "Jukat",
+  "porcion": "Números 19:1–22:1 (Parte 1/3)",
+  "otrosLibros": "Malaquías 1-4; Mateo 1-2",
+  "complementaria": "Hebreos 9:11-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 20:10–20:15",
+    "otros": "Malaquías 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 20:16–20:18",
+    "otros": "Malaquías 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 20:19–20:20",
+    "otros": "Malaquías 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 21:1–21:9",
+    "otros": "Malaquías 4"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 21:10–21:14",
+    "otros": "Mateo 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 21:15–21:17",
+    "otros": "Mateo 2:1-12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 21:18–21:23",
+    "otros": "Mateo 2:13-23"
+   }
+  ]
+ },
+ {
+  "numero": 114,
+  "bloque": "Semanas 96–156",
+  "parasha": "Jukat",
+  "porcion": "Números 19:1–22:1 (Parte 2/3)",
+  "otrosLibros": "Mateo 3-8",
+  "complementaria": "Mateo 4:1-11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 22:1–22:4",
+    "otros": "Mateo 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 22:5",
+    "otros": "Mateo 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 22:6–22:7",
+    "otros": "Mateo 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 22:8",
+    "otros": "Mateo 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 22:9–22:12",
+    "otros": "Mateo 7"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 22:13–22:21",
+    "otros": "Mateo 8:1-17"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 22:22–22:30",
+    "otros": "Mateo 8:18-34"
+   }
+  ]
+ },
+ {
+  "numero": 115,
+  "bloque": "Semanas 96–156",
+  "parasha": "Jukat",
+  "porcion": "Números 19:1–22:1 (Parte 3/3)",
+  "otrosLibros": "Mateo 9-14",
+  "complementaria": "Mateo 5:17-20",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 23:1–23:8",
+    "otros": "Mateo 9"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 23:9–23:14",
+    "otros": "Mateo 10"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 23:15–23:16",
+    "otros": "Mateo 11"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 23:17–23:18",
+    "otros": "Mateo 12"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 23:19–23:20",
+    "otros": "Mateo 13:1-35"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 23:21–23:25",
+    "otros": "Mateo 13:36-58"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 24:1–24:9",
+    "otros": "Mateo 14"
+   }
+  ]
+ },
+ {
+  "numero": 116,
+  "bloque": "Semanas 96–156",
+  "parasha": "Balak",
+  "porcion": "Números 22:2–25:9 (Parte 1/3)",
+  "otrosLibros": "Mateo 15-20",
+  "complementaria": "Mateo 19:3-9",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 24:10–24:13",
+    "otros": "Mateo 15"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 24:14–24:18",
+    "otros": "Mateo 16"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 24:19–24:22",
+    "otros": "Mateo 17"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 25:1–25:3",
+    "otros": "Mateo 18"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 25:4–25:10",
+    "otros": "Mateo 19"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 25:11–25:12",
+    "otros": "Mateo 20:1-19"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 25:13–25:19",
+    "otros": "Mateo 20:20-34"
+   }
+  ]
+ },
+ {
+  "numero": 117,
+  "bloque": "Semanas 96–156",
+  "parasha": "Balak",
+  "porcion": "Números 22:2–25:9 (Parte 2/3)",
+  "otrosLibros": "Mateo 21-26",
+  "complementaria": "Mateo 18:15-20",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 26:1–26:4",
+    "otros": "Mateo 21"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 26:5–26:7",
+    "otros": "Mateo 22"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 26:8–26:11",
+    "otros": "Mateo 23"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 26:12–26:13",
+    "otros": "Mateo 24"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 26:14–26:15",
+    "otros": "Mateo 25"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 26:16–26:17",
+    "otros": "Mateo 26:1-35"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 26:18–26:19",
+    "otros": "Mateo 26:36-75"
+   }
+  ]
+ },
+ {
+  "numero": 118,
+  "bloque": "Semanas 96–156",
+  "parasha": "Balak",
+  "porcion": "Números 22:2–25:9 (Parte 3/3)",
+  "otrosLibros": "Mateo 27-28; Marcos 1-4",
+  "complementaria": "Lucas 9:51-56",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 27:1–27:4",
+    "otros": "Mateo 27:1-31"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 27:5–27:8",
+    "otros": "Mateo 27:32-66"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 27:9–27:10",
+    "otros": "Mateo 28"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 27:11–27:13",
+    "otros": "Marcos 1"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 27:14–27:19",
+    "otros": "Marcos 2"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 27:20–27:25",
+    "otros": "Marcos 3"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 27:26",
+    "otros": "Marcos 4"
+   }
+  ]
+ },
+ {
+  "numero": 119,
+  "bloque": "Semanas 96–156",
+  "parasha": "Pinjas",
+  "porcion": "Números 25:10–30:1 (Parte 1/3)",
+  "otrosLibros": "Marcos 5-10",
+  "complementaria": "Juan 3:14-17",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 28:1–28:2",
+    "otros": "Marcos 5"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 28:3–28:6",
+    "otros": "Marcos 6"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 28:7–28:8",
+    "otros": "Marcos 7"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 28:9–28:10",
+    "otros": "Marcos 8"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 28:11–28:12",
+    "otros": "Marcos 9"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 28:13",
+    "otros": "Marcos 10:1-31"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 28:14",
+    "otros": "Marcos 10:32-52"
+   }
+  ]
+ },
+ {
+  "numero": 120,
+  "bloque": "Semanas 96–156",
+  "parasha": "Pinjas",
+  "porcion": "Números 25:10–30:1 (Parte 2/3)",
+  "otrosLibros": "Marcos 11-16",
+  "complementaria": "Lucas 10:25-37",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 28:15–28:19",
+    "otros": "Marcos 11"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 28:20–28:22",
+    "otros": "Marcos 12"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 28:23–28:24",
+    "otros": "Marcos 13"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 28:25–28:26",
+    "otros": "Marcos 14:1-31"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 28:27–28:29",
+    "otros": "Marcos 14:32-72"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 28:30–28:32",
+    "otros": "Marcos 15"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 28:33–28:35",
+    "otros": "Marcos 16"
+   }
+  ]
+ },
+ {
+  "numero": 121,
+  "bloque": "Semanas 96–156",
+  "parasha": "Pinjas",
+  "porcion": "Números 25:10–30:1 (Parte 3/3)",
+  "otrosLibros": "Lucas 1-6",
+  "complementaria": "Juan 4:7-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 28:36–28:44",
+    "otros": "Lucas 1:1-38"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 28:45–28:48",
+    "otros": "Lucas 1:39-80"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 28:49–28:53",
+    "otros": "Lucas 2"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 28:54–28:57",
+    "otros": "Lucas 3"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 28:58–28:63",
+    "otros": "Lucas 4"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 28:64–28:67",
+    "otros": "Lucas 5"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 28:68",
+    "otros": "Lucas 6"
+   }
+  ]
+ },
+ {
+  "numero": 122,
+  "bloque": "Semanas 96–156",
+  "parasha": "Matot",
+  "porcion": "Números 30:2–32:42 (Parte 1/3)",
+  "otrosLibros": "Lucas 7-12",
+  "complementaria": "Juan 7:37-39",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 29:1–29:4",
+    "otros": "Lucas 7"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 29:5–29:9",
+    "otros": "Lucas 8"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 29:10–29:13",
+    "otros": "Lucas 9"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 29:14–29:18",
+    "otros": "Lucas 10"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 29:19–29:21",
+    "otros": "Lucas 11"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 29:22–29:28",
+    "otros": "Lucas 12:1-34"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 29:29",
+    "otros": "Lucas 12:35-59"
+   }
+  ]
+ },
+ {
+  "numero": 123,
+  "bloque": "Semanas 96–156",
+  "parasha": "Matot",
+  "porcion": "Números 30:2–32:42 (Parte 2/3)",
+  "otrosLibros": "Lucas 13-18",
+  "complementaria": "Deuteronomio 1:29-33; Hebreos 3:7-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 30:1–30:5",
+    "otros": "Lucas 13"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 30:6–30:8",
+    "otros": "Lucas 14"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 30:9–30:10",
+    "otros": "Lucas 15"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 30:11–30:14",
+    "otros": "Lucas 16"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 30:15–30:18",
+    "otros": "Lucas 17"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 30:19",
+    "otros": "Lucas 18:1-30"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 30:20",
+    "otros": "Lucas 18:31-43"
+   }
+  ]
+ },
+ {
+  "numero": 124,
+  "bloque": "Semanas 96–156",
+  "parasha": "Matot",
+  "porcion": "Números 30:2–32:42 (Parte 3/3)",
+  "otrosLibros": "Lucas 19-24",
+  "complementaria": "Deuteronomio 2:24-37; Josué 2:8-11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 31:1–31:3",
+    "otros": "Lucas 19"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 31:4–31:6",
+    "otros": "Lucas 20"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 31:7–31:8",
+    "otros": "Lucas 21"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 31:9",
+    "otros": "Lucas 22:1-38"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 31:10–31:11",
+    "otros": "Lucas 22:39-71"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 31:12",
+    "otros": "Lucas 23"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 31:13",
+    "otros": "Lucas 24"
+   }
+  ]
+ },
+ {
+  "numero": 125,
+  "bloque": "Semanas 96–156",
+  "parasha": "Masei",
+  "porcion": "Números 33:1–36:13 (Parte 1/3)",
+  "otrosLibros": "Juan 1-6",
+  "complementaria": "Deuteronomio 3:21-22; Josué 1:1-9",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 31:14–31:15",
+    "otros": "Juan 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 31:16–31:18",
+    "otros": "Juan 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 31:19–31:21",
+    "otros": "Juan 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 31:22–31:23",
+    "otros": "Juan 4"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 31:24–31:25",
+    "otros": "Juan 5"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 31:26–31:27",
+    "otros": "Juan 6:1-40"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 31:28–31:30",
+    "otros": "Juan 6:41-71"
+   }
+  ]
+ },
+ {
+  "numero": 126,
+  "bloque": "Semanas 96–156",
+  "parasha": "Masei",
+  "porcion": "Números 33:1–36:13 (Parte 2/3)",
+  "otrosLibros": "Juan 7-12",
+  "complementaria": "Deuteronomio 4:5-8; Mateo 5:17-20",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 32:1–32:2",
+    "otros": "Juan 7"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 32:3–32:4",
+    "otros": "Juan 8"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 32:5–32:6",
+    "otros": "Juan 9"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 32:7–32:9",
+    "otros": "Juan 10"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 32:10–32:11",
+    "otros": "Juan 11"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 32:12",
+    "otros": "Juan 12:1-26"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 32:13–32:14",
+    "otros": "Juan 12:27-50"
+   }
+  ]
+ },
+ {
+  "numero": 127,
+  "bloque": "Semanas 96–156",
+  "parasha": "Masei",
+  "porcion": "Números 33:1–36:13 (Parte 3/3)",
+  "otrosLibros": "Juan 13-18",
+  "complementaria": "Mateo 22:34-40; Marcos 12:28-34",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 32:15",
+    "otros": "Juan 13"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 32:16–32:17",
+    "otros": "Juan 14"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 32:18–32:19",
+    "otros": "Juan 15"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 32:20–32:21",
+    "otros": "Juan 16"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 32:22–32:23",
+    "otros": "Juan 17"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 32:24–32:25",
+    "otros": "Juan 18:1-27"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 32:26–32:29",
+    "otros": "Juan 18:28-40"
+   }
+  ]
+ },
+ {
+  "numero": 128,
+  "bloque": "Semanas 96–156",
+  "parasha": "Devarim",
+  "porcion": "Deuteronomio 1:1–3:22 (Parte 1/3)",
+  "otrosLibros": "Juan 19-21; Hechos 1-3",
+  "complementaria": "Mateo 4:1-11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 32:30–32:33",
+    "otros": "Juan 19"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 32:34–32:36",
+    "otros": "Juan 20"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 32:37–32:39",
+    "otros": "Juan 21"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 32:40–32:43",
+    "otros": "Hechos 1"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 32:44–32:47",
+    "otros": "Hechos 2:1-21"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 32:48–32:50",
+    "otros": "Hechos 2:22-47"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 32:51–32:52",
+    "otros": "Hechos 3"
+   }
+  ]
+ },
+ {
+  "numero": 129,
+  "bloque": "Semanas 96–156",
+  "parasha": "Devarim",
+  "porcion": "Deuteronomio 1:1–3:22 (Parte 2/3)",
+  "otrosLibros": "Hechos 4-9",
+  "complementaria": "Gálatas 3:15-18",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 33:1–33:3",
+    "otros": "Hechos 4"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 33:4–33:5",
+    "otros": "Hechos 5"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 33:6–33:7",
+    "otros": "Hechos 6"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 33:8–33:11",
+    "otros": "Hechos 7"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 33:12",
+    "otros": "Hechos 8"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 33:13–33:15",
+    "otros": "Hechos 9:1-31"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 33:16–33:17",
+    "otros": "Hechos 9:32-43"
+   }
+  ]
+ },
+ {
+  "numero": 130,
+  "bloque": "Semanas 96–156",
+  "parasha": "Devarim",
+  "porcion": "Deuteronomio 1:1–3:22 (Parte 3/3)",
+  "otrosLibros": "Hechos 10-15",
+  "complementaria": "Juan 6:30-35",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 33:18–33:21",
+    "otros": "Hechos 10"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 33:22–33:25",
+    "otros": "Hechos 11"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 33:26–33:29",
+    "otros": "Hechos 12"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 34:1–34:3",
+    "otros": "Hechos 13"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 34:4–34:6",
+    "otros": "Hechos 14"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 34:7–34:9",
+    "otros": "Hechos 15:1-21"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 34:10–34:12",
+    "otros": "Hechos 15:22-41"
+   }
+  ]
+ },
+ {
+  "numero": 131,
+  "bloque": "Semanas 96–156",
+  "parasha": "Va'etjanán",
+  "porcion": "Deuteronomio 3:23–7:11 (Parte 1/3)",
+  "otrosLibros": "Hechos 16-21",
+  "complementaria": "Romanos 9:30-33",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 1:1–2:37 (Sección 1)",
+    "otros": "Hechos 16"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 1:1–2:37 (Sección 2)",
+    "otros": "Hechos 17"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 1:1–2:37 (Sección 3)",
+    "otros": "Hechos 18"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 1:1–2:37 (Sección 4)",
+    "otros": "Hechos 19"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 1:1–2:37 (Sección 5)",
+    "otros": "Hechos 20"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 1:1–2:37 (Sección 6)",
+    "otros": "Hechos 21:1-26"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 1:1–2:37 (Sección 7)",
+    "otros": "Hechos 21:27-40"
+   }
+  ]
+ },
+ {
+  "numero": 132,
+  "bloque": "Semanas 96–156",
+  "parasha": "Va'etjanán",
+  "porcion": "Deuteronomio 3:23–7:11 (Parte 2/3)",
+  "otrosLibros": "Hechos 22-27",
+  "complementaria": "Hebreos 3:7-19",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 3:1–4:40 (Sección 1)",
+    "otros": "Hechos 22"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 3:1–4:40 (Sección 2)",
+    "otros": "Hechos 23"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 3:1–4:40 (Sección 3)",
+    "otros": "Hechos 24"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 3:1–4:40 (Sección 4)",
+    "otros": "Hechos 25"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 3:1–4:40 (Sección 5)",
+    "otros": "Hechos 26"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 3:1–4:40 (Sección 6)",
+    "otros": "Hechos 27:1-26"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 3:1–4:40 (Sección 7)",
+    "otros": "Hechos 27:27-44"
+   }
+  ]
+ },
+ {
+  "numero": 133,
+  "bloque": "Semanas 96–156",
+  "parasha": "Va'etjanán",
+  "porcion": "Deuteronomio 3:23–7:11 (Parte 3/3)",
+  "otrosLibros": "Hechos 28; Romanos 1-5",
+  "complementaria": "Romanos 10:5-13",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 5:1–6:25 (Sección 1)",
+    "otros": "Hechos 28"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 5:1–6:25 (Sección 2)",
+    "otros": "Romanos 1"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 5:1–6:25 (Sección 3)",
+    "otros": "Romanos 2"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 5:1–6:25 (Sección 4)",
+    "otros": "Romanos 3"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 5:1–6:25 (Sección 5)",
+    "otros": "Romanos 4"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 5:1–6:25 (Sección 6)",
+    "otros": "Romanos 5:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 5:1–6:25 (Sección 7)",
+    "otros": "Romanos 5:12-21"
+   }
+  ]
+ },
+ {
+  "numero": 134,
+  "bloque": "Semanas 96–156",
+  "parasha": "Eikev",
+  "porcion": "Deuteronomio 7:12–11:25 (Parte 1/3)",
+  "otrosLibros": "Romanos 6-11",
+  "complementaria": "Hechos 15:1-21",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 7:1–8:20 (Sección 1)",
+    "otros": "Romanos 6"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 7:1–8:20 (Sección 2)",
+    "otros": "Romanos 7"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 7:1–8:20 (Sección 3)",
+    "otros": "Romanos 8:1-17"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 7:1–8:20 (Sección 4)",
+    "otros": "Romanos 8:18-39"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 7:1–8:20 (Sección 5)",
+    "otros": "Romanos 9"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 7:1–8:20 (Sección 6)",
+    "otros": "Romanos 10"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 7:1–8:20 (Sección 7)",
+    "otros": "Romanos 11"
+   }
+  ]
+ },
+ {
+  "numero": 135,
+  "bloque": "Semanas 96–156",
+  "parasha": "Eikev",
+  "porcion": "Deuteronomio 7:12–11:25 (Parte 2/3)",
+  "otrosLibros": "Romanos 12-16; 1 Corintios 1",
+  "complementaria": "Mateo 15:10-20",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 9:1–10:22 (Sección 1)",
+    "otros": "Romanos 12"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 9:1–10:22 (Sección 2)",
+    "otros": "Romanos 13"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 9:1–10:22 (Sección 3)",
+    "otros": "Romanos 14"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 9:1–10:22 (Sección 4)",
+    "otros": "Romanos 15"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 9:1–10:22 (Sección 5)",
+    "otros": "Romanos 16"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 9:1–10:22 (Sección 6)",
+    "otros": "1 Corintios 1:1-17"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 9:1–10:22 (Sección 7)",
+    "otros": "1 Corintios 1:18-31"
+   }
+  ]
+ },
+ {
+  "numero": 136,
+  "bloque": "Semanas 96–156",
+  "parasha": "Eikev",
+  "porcion": "Deuteronomio 7:12–11:25 (Parte 3/3)",
+  "otrosLibros": "1 Corintios 2-7",
+  "complementaria": "Hechos 10:9-16",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 11:1–12:32 (Sección 1)",
+    "otros": "1 Corintios 2"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 11:1–12:32 (Sección 2)",
+    "otros": "1 Corintios 3"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 11:1–12:32 (Sección 3)",
+    "otros": "1 Corintios 4"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 11:1–12:32 (Sección 4)",
+    "otros": "1 Corintios 5"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 11:1–12:32 (Sección 5)",
+    "otros": "1 Corintios 6"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 11:1–12:32 (Sección 6)",
+    "otros": "1 Corintios 7:1-24"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 11:1–12:32 (Sección 7)",
+    "otros": "1 Corintios 7:25-40"
+   }
+  ]
+ },
+ {
+  "numero": 137,
+  "bloque": "Semanas 96–156",
+  "parasha": "Re'eh",
+  "porcion": "Deuteronomio 11:26–16:17 (Parte 1/3)",
+  "otrosLibros": "1 Corintios 8-13",
+  "complementaria": "Lucas 4:16-21",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 13:1–14:29 (Sección 1)",
+    "otros": "1 Corintios 8"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 13:1–14:29 (Sección 2)",
+    "otros": "1 Corintios 9"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 13:1–14:29 (Sección 3)",
+    "otros": "1 Corintios 10"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 13:1–14:29 (Sección 4)",
+    "otros": "1 Corintios 11"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 13:1–14:29 (Sección 5)",
+    "otros": "1 Corintios 12"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 13:1–14:29 (Sección 6)",
+    "otros": "1 Corintios 13:1-7"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 13:1–14:29 (Sección 7)",
+    "otros": "1 Corintios 13:8-13"
+   }
+  ]
+ },
+ {
+  "numero": 138,
+  "bloque": "Semanas 96–156",
+  "parasha": "Re'eh",
+  "porcion": "Deuteronomio 11:26–16:17 (Parte 2/3)",
+  "otrosLibros": "1 Corintios 14-16; 2 Corintios 1-3",
+  "complementaria": "Hechos 2:1-13",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 15:1–16:17 (Sección 1)",
+    "otros": "1 Corintios 14"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 15:1–16:17 (Sección 2)",
+    "otros": "1 Corintios 15:1-34"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 15:1–16:17 (Sección 3)",
+    "otros": "1 Corintios 15:35-58"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 15:1–16:17 (Sección 4)",
+    "otros": "1 Corintios 16"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 15:1–16:17 (Sección 5)",
+    "otros": "2 Corintios 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 15:1–16:17 (Sección 6)",
+    "otros": "2 Corintios 2"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 15:1–16:17 (Sección 7)",
+    "otros": "2 Corintios 3"
+   }
+  ]
+ },
+ {
+  "numero": 139,
+  "bloque": "Semanas 96–156",
+  "parasha": "Re'eh",
+  "porcion": "Deuteronomio 11:26–16:17 (Parte 3/3)",
+  "otrosLibros": "2 Corintios 4-9",
+  "complementaria": "Romanos 13:1-7",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 16:18–18:22 (Sección 1)",
+    "otros": "2 Corintios 4"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 16:18–18:22 (Sección 2)",
+    "otros": "2 Corintios 5"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 16:18–18:22 (Sección 3)",
+    "otros": "2 Corintios 6"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 16:18–18:22 (Sección 4)",
+    "otros": "2 Corintios 7"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 16:18–18:22 (Sección 5)",
+    "otros": "2 Corintios 8"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 16:18–18:22 (Sección 6)",
+    "otros": "2 Corintios 9:1-5"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 16:18–18:22 (Sección 7)",
+    "otros": "2 Corintios 9:6-15"
+   }
+  ]
+ },
+ {
+  "numero": 140,
+  "bloque": "Semanas 96–156",
+  "parasha": "Shoftim",
+  "porcion": "Deuteronomio 16:18–21:9 (Parte 1/3)",
+  "otrosLibros": "2 Corintios 10-13; Gálatas 1-2",
+  "complementaria": "Hechos 3:22-26; 7:37",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 19:1–21:9 (Sección 1)",
+    "otros": "2 Corintios 10"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 19:1–21:9 (Sección 2)",
+    "otros": "2 Corintios 11"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 19:1–21:9 (Sección 3)",
+    "otros": "2 Corintios 12"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 19:1–21:9 (Sección 4)",
+    "otros": "2 Corintios 13"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 19:1–21:9 (Sección 5)",
+    "otros": "Gálatas 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 19:1–21:9 (Sección 6)",
+    "otros": "Gálatas 2:1-10"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 19:1–21:9 (Sección 7)",
+    "otros": "Gálatas 2:11-21"
+   }
+  ]
+ },
+ {
+  "numero": 141,
+  "bloque": "Semanas 96–156",
+  "parasha": "Shoftim",
+  "porcion": "Deuteronomio 16:18–21:9 (Parte 2/3)",
+  "otrosLibros": "Gálatas 3-6; Efesios 1-2",
+  "complementaria": "Mateo 18:15-20",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 21:10–23:14 (Sección 1)",
+    "otros": "Gálatas 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 21:10–23:14 (Sección 2)",
+    "otros": "Gálatas 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 21:10–23:14 (Sección 3)",
+    "otros": "Gálatas 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 21:10–23:14 (Sección 4)",
+    "otros": "Gálatas 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 21:10–23:14 (Sección 5)",
+    "otros": "Efesios 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 21:10–23:14 (Sección 6)",
+    "otros": "Efesios 2:1-10"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 21:10–23:14 (Sección 7)",
+    "otros": "Efesios 2:11-22"
+   }
+  ]
+ },
+ {
+  "numero": 142,
+  "bloque": "Semanas 96–156",
+  "parasha": "Shoftim",
+  "porcion": "Deuteronomio 16:18–21:9 (Parte 3/3)",
+  "otrosLibros": "Efesios 3-6; Filipenses 1-2",
+  "complementaria": "Mateo 5:38-48",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 23:15–25:19 (Sección 1)",
+    "otros": "Efesios 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 23:15–25:19 (Sección 2)",
+    "otros": "Efesios 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 23:15–25:19 (Sección 3)",
+    "otros": "Efesios 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 23:15–25:19 (Sección 4)",
+    "otros": "Efesios 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 23:15–25:19 (Sección 5)",
+    "otros": "Filipenses 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 23:15–25:19 (Sección 6)",
+    "otros": "Filipenses 2:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 23:15–25:19 (Sección 7)",
+    "otros": "Filipenses 2:12-30"
+   }
+  ]
+ },
+ {
+  "numero": 143,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ki Teitzé",
+  "porcion": "Deuteronomio 21:10–25:19 (Parte 1/3)",
+  "otrosLibros": "Filipenses 3-4; Colosenses 1-4",
+  "complementaria": "Gálatas 3:13; 1 Pedro 2:24",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 26:1–27:26 (Sección 1)",
+    "otros": "Filipenses 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 26:1–27:26 (Sección 2)",
+    "otros": "Filipenses 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 26:1–27:26 (Sección 3)",
+    "otros": "Colosenses 1:1-23"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 26:1–27:26 (Sección 4)",
+    "otros": "Colosenses 1:24-2:15"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 26:1–27:26 (Sección 5)",
+    "otros": "Colosenses 2:16-23"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 26:1–27:26 (Sección 6)",
+    "otros": "Colosenses 3"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 26:1–27:26 (Sección 7)",
+    "otros": "Colosenses 4"
+   }
+  ]
+ },
+ {
+  "numero": 144,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ki Teitzé",
+  "porcion": "Deuteronomio 21:10–25:19 (Parte 2/3)",
+  "otrosLibros": "1 Tesalonicenses 1-5; 2 Tesalonicenses 1",
+  "complementaria": "Mateo 5:31-32",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 28:1–28:68 (Sección 1)",
+    "otros": "1 Tesalonicenses 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 28:1–28:68 (Sección 2)",
+    "otros": "1 Tesalonicenses 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 28:1–28:68 (Sección 3)",
+    "otros": "1 Tesalonicenses 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 28:1–28:68 (Sección 4)",
+    "otros": "1 Tesalonicenses 4"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 28:1–28:68 (Sección 5)",
+    "otros": "1 Tesalonicenses 5"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 28:1–28:68 (Sección 6)",
+    "otros": "2 Tesalonicenses 1:1-7"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 28:1–28:68 (Sección 7)",
+    "otros": "2 Tesalonicenses 1:8-12"
+   }
+  ]
+ },
+ {
+  "numero": 145,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ki Teitzé",
+  "porcion": "Deuteronomio 21:10–25:19 (Parte 3/3)",
+  "otrosLibros": "2 Tesalonicenses 2-3; 1 Timoteo 1-4",
+  "complementaria": "Mateo 25:31-46",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 25:1–25:38 (Sección 1)",
+    "otros": "2 Tesalonicenses 2"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 25:1–25:38 (Sección 2)",
+    "otros": "2 Tesalonicenses 3"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 25:1–25:38 (Sección 3)",
+    "otros": "1 Timoteo 1"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 25:1–25:38 (Sección 4)",
+    "otros": "1 Timoteo 2"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 25:1–25:38 (Sección 5)",
+    "otros": "1 Timoteo 3"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 25:1–25:38 (Sección 6)",
+    "otros": "1 Timoteo 4:1-10"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 25:1–25:38 (Sección 7)",
+    "otros": "1 Timoteo 4:11-16"
+   }
+  ]
+ },
+ {
+  "numero": 146,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ki Tavó",
+  "porcion": "Deuteronomio 26:1–29:8 (Parte 1/3)",
+  "otrosLibros": "1 Timoteo 5-6; 2 Timoteo 1-4",
+  "complementaria": "Santiago 1:27",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 25:39–26:2 (Sección 1)",
+    "otros": "1 Timoteo 5"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 25:39–26:2 (Sección 2)",
+    "otros": "1 Timoteo 6"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 25:39–26:2 (Sección 3)",
+    "otros": "2 Timoteo 1"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 25:39–26:2 (Sección 4)",
+    "otros": "2 Timoteo 2"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 25:39–26:2 (Sección 5)",
+    "otros": "2 Timoteo 3"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 25:39–26:2 (Sección 6)",
+    "otros": "2 Timoteo 4:1-8"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 25:39–26:2 (Sección 7)",
+    "otros": "2 Timoteo 4:9-22"
+   }
+  ]
+ },
+ {
+  "numero": 147,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ki Tavó",
+  "porcion": "Deuteronomio 26:1–29:8 (Parte 2/3)",
+  "otrosLibros": "Tito 1-3; Filemón 1; Hebreos 1-2",
+  "complementaria": "2 Corintios 9:6-11",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 26:3–26:46 (Sección 1)",
+    "otros": "Tito 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 26:3–26:46 (Sección 2)",
+    "otros": "Tito 2"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 26:3–26:46 (Sección 3)",
+    "otros": "Tito 3"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 26:3–26:46 (Sección 4)",
+    "otros": "Filemón 1"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 26:3–26:46 (Sección 5)",
+    "otros": "Hebreos 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 26:3–26:46 (Sección 6)",
+    "otros": "Hebreos 2:1-9"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 26:3–26:46 (Sección 7)",
+    "otros": "Hebreos 2:10-18"
+   }
+  ]
+ },
+ {
+  "numero": 148,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ki Tavó",
+  "porcion": "Deuteronomio 26:1–29:8 (Parte 3/3)",
+  "otrosLibros": "Hebreos 3-8",
+  "complementaria": "Hebreos 9:15-22",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Levítico 27:1–27:34 (Sección 1)",
+    "otros": "Hebreos 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Levítico 27:1–27:34 (Sección 2)",
+    "otros": "Hebreos 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Levítico 27:1–27:34 (Sección 3)",
+    "otros": "Hebreos 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Levítico 27:1–27:34 (Sección 4)",
+    "otros": "Hebreos 6"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Levítico 27:1–27:34 (Sección 5)",
+    "otros": "Hebreos 7:1-19"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Levítico 27:1–27:34 (Sección 6)",
+    "otros": "Hebreos 7:20-28"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Levítico 27:1–27:34 (Sección 7)",
+    "otros": "Hebreos 8"
+   }
+  ]
+ },
+ {
+  "numero": 149,
+  "bloque": "Semanas 96–156",
+  "parasha": "Nitzavim",
+  "porcion": "Deuteronomio 29:9–30:20 (Parte 1/2)",
+  "otrosLibros": "Hebreos 9-13; Santiago 1",
+  "complementaria": "Gálatas 3:10-14",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 29:2–29:9",
+    "otros": "Hebreos 9"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 29:10–29:13",
+    "otros": "Hebreos 10:1-18"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 29:14–29:19",
+    "otros": "Hebreos 10:19-39"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 29:20–29:24",
+    "otros": "Hebreos 11"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 29:25–29:29",
+    "otros": "Hebreos 12"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 30:1–30:5",
+    "otros": "Hebreos 13"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 30:6–30:10",
+    "otros": "Santiago 1"
+   }
+  ]
+ },
+ {
+  "numero": 150,
+  "bloque": "Semanas 96–156",
+  "parasha": "Nitzavim",
+  "porcion": "Deuteronomio 29:9–30:20 (Parte 2/2)",
+  "otrosLibros": "Santiago 2-5; 1 Pedro 1-2",
+  "complementaria": "Lucas 6:20-26",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 30:11–30:14",
+    "otros": "Santiago 2"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 30:15–30:16",
+    "otros": "Santiago 3"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 30:17–30:18",
+    "otros": "Santiago 4"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 30:19",
+    "otros": "Santiago 5"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 30:20",
+    "otros": "1 Pedro 1"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 30:20 (Reflexión 1)",
+    "otros": "1 Pedro 2:1-12"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 30:20 (Reflexión 2)",
+    "otros": "1 Pedro 2:13-25"
+   }
+  ]
+ },
+ {
+  "numero": 151,
+  "bloque": "Semanas 96–156",
+  "parasha": "Vayelech",
+  "porcion": "Deuteronomio 31:1–30 (Parte 1/2)",
+  "otrosLibros": "1 Pedro 3-5; 2 Pedro 1-3",
+  "complementaria": "Romanos 11:25-32",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 31:1–31:3",
+    "otros": "1 Pedro 3"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 31:4–31:6",
+    "otros": "1 Pedro 4"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 31:7–31:8",
+    "otros": "1 Pedro 5"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 31:9",
+    "otros": "2 Pedro 1"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 31:10–31:11",
+    "otros": "2 Pedro 2"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 31:12–31:13",
+    "otros": "2 Pedro 3:1-9"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 31:13 (Reflexión)",
+    "otros": "2 Pedro 3:10-18"
+   }
+  ]
+ },
+ {
+  "numero": 152,
+  "bloque": "Semanas 96–156",
+  "parasha": "Vayelech",
+  "porcion": "Deuteronomio 31:1–30 (Parte 2/2)",
+  "otrosLibros": "1 Juan 1-5; 2 Juan 1",
+  "complementaria": "Romanos 10:6-10",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 31:14–31:15",
+    "otros": "1 Juan 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 31:16–31:18",
+    "otros": "1 Juan 2:1-17"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 31:19–31:21",
+    "otros": "1 Juan 2:18-29"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 31:22–31:23",
+    "otros": "1 Juan 3"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 31:24–31:27",
+    "otros": "1 Juan 4"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 31:28–31:29",
+    "otros": "1 Juan 5"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 31:30",
+    "otros": "2 Juan 1"
+   }
+  ]
+ },
+ {
+  "numero": 153,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ha'azinu",
+  "porcion": "Deuteronomio 32:1–52 (Parte 1/2)",
+  "otrosLibros": "3 Juan 1; Judas 1; Apocalipsis 1-4",
+  "complementaria": "Hebreos 3:1-6",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 32:1–32:4",
+    "otros": "3 Juan 1"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 32:5–32:9",
+    "otros": "Judas 1"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 32:10–32:14",
+    "otros": "Apocalipsis 1"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 32:15–32:18",
+    "otros": "Apocalipsis 2"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 32:19–32:22",
+    "otros": "Apocalipsis 3"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 32:23–32:25",
+    "otros": "Apocalipsis 4:1-6"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 32:26–32:29",
+    "otros": "Apocalipsis 4:7-11"
+   }
+  ]
+ },
+ {
+  "numero": 154,
+  "bloque": "Semanas 96–156",
+  "parasha": "Ha'azinu",
+  "porcion": "Deuteronomio 32:1–52 (Parte 2/2)",
+  "otrosLibros": "Apocalipsis 5-10",
+  "complementaria": "Hebreos 12:18-29",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 32:30–32:35",
+    "otros": "Apocalipsis 5"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 32:36–32:39",
+    "otros": "Apocalipsis 6"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 32:40–32:43",
+    "otros": "Apocalipsis 7"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 32:44–32:47",
+    "otros": "Apocalipsis 8"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 32:48–32:50",
+    "otros": "Apocalipsis 9"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 32:51–32:52",
+    "otros": "Apocalipsis 10:1-7"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 32:52 (Reflexión)",
+    "otros": "Apocalipsis 10:8-11"
+   }
+  ]
+ },
+ {
+  "numero": 155,
+  "bloque": "Semanas 96–156",
+  "parasha": "Vezot Haberakhah",
+  "porcion": "Deuteronomio 33:1–34:12 (Parte 1/2)",
+  "otrosLibros": "Apocalipsis 11-16",
+  "complementaria": "Hechos 7:37-43",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 33:1–33:5",
+    "otros": "Apocalipsis 11"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 33:6–33:7",
+    "otros": "Apocalipsis 12"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 33:8–33:11",
+    "otros": "Apocalipsis 13"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 33:12–33:15",
+    "otros": "Apocalipsis 14"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 33:16–33:17",
+    "otros": "Apocalipsis 15"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 33:18–33:21",
+    "otros": "Apocalipsis 16:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 33:22–33:25",
+    "otros": "Apocalipsis 16:12-21"
+   }
+  ]
+ },
+ {
+  "numero": 156,
+  "bloque": "Semanas 96–156",
+  "parasha": "Vezot Haberakhah",
+  "porcion": "Deuteronomio 33:1–34:12 (Parte 2/2)",
+  "otrosLibros": "Apocalipsis 17-22",
+  "complementaria": "Hebreos 11:23-29",
+  "dias": [
+   {
+    "dia": "Domingo",
+    "torah": "Deuteronomio 33:26–33:29",
+    "otros": "Apocalipsis 17"
+   },
+   {
+    "dia": "Lunes",
+    "torah": "Deuteronomio 34:1–34:3",
+    "otros": "Apocalipsis 18"
+   },
+   {
+    "dia": "Martes",
+    "torah": "Deuteronomio 34:4",
+    "otros": "Apocalipsis 19"
+   },
+   {
+    "dia": "Miércoles",
+    "torah": "Deuteronomio 34:5–34:6",
+    "otros": "Apocalipsis 20"
+   },
+   {
+    "dia": "Jueves",
+    "torah": "Deuteronomio 34:7–34:9",
+    "otros": "Apocalipsis 21"
+   },
+   {
+    "dia": "Viernes",
+    "torah": "Deuteronomio 34:10–34:12",
+    "otros": "Apocalipsis 22:1-11"
+   },
+   {
+    "dia": "Sábado",
+    "torah": "Deuteronomio 34:12 (Gran Cierre)",
+    "otros": "Apocalipsis 22:12-21"
+   }
+  ]
+ }
+]
