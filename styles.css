@@ -83,6 +83,11 @@ input:focus-visible {
   text-decoration: none;
 }
 
+.brand-copy {
+  display: grid;
+  gap: 2px;
+}
+
 .brand-mark {
   width: 42px;
   height: 42px;
@@ -97,6 +102,12 @@ input:focus-visible {
   font-size: 19px;
   font-weight: 600;
   letter-spacing: -0.02em;
+}
+
+.week-status {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 600;
 }
 
 .header-link {

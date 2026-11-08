@@ -28,6 +28,16 @@ function currentWeekNumber() {
   return match ? Number(match[1]) : null;
 }
 
+function currentCalendarWeekLabel(today = new Date()) {
+  const startDay = Date.UTC(2026, 10, 15);
+  const currentDay = Date.UTC(today.getFullYear(), today.getMonth(), today.getDate());
+
+  if (currentDay < startDay) return "Iniciamos el 15 de noviembre de 2026";
+
+  const weekNumber = Math.floor((currentDay - startDay) / (7 * 24 * 60 * 60 * 1000)) + 1;
+  return `Estamos en la semana ${weekNumber}`;
+}
+
 function navigate(path) {
   if (window.location.hash === path) {
     render();
@@ -46,7 +56,10 @@ function shell(content, isDetail = false) {
             src="./app/src/main/res/drawable-nodpi/calendario_biblico.png"
             alt=""
           />
-          <span class="brand-name">Calendario Bíblico</span>
+          <span class="brand-copy">
+            <span class="brand-name">Calendario Bíblico</span>
+            <span class="week-status">${currentCalendarWeekLabel()}</span>
+          </span>
         </a>
         <a class="header-link" href="#/">${isDetail ? "Ver calendario" : "156 semanas"}</a>
       </div>

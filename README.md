@@ -6,6 +6,8 @@ Lugar para ver recursos útiles en la vida del Reino de Jehová.
 
 SPA adaptable a móvil y escritorio para buscar y consultar las lecturas bíblicas semanales. La aplicación conserva la búsqueda, los filtros por bloque, el detalle de las siete lecturas y la navegación entre semanas. Las rutas usan el hash del navegador, por lo que un detalle se puede enlazar y la navegación atrás funciona.
 
+El encabezado muestra la semana actual, contando desde el 15 de noviembre de 2026 y avanzando cada siete días.
+
 Los datos del calendario se cargan desde `app/src/main/assets/calendario.json`.
 
 ### Ejecutar localmente
