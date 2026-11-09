@@ -9,6 +9,15 @@ SPA adaptable a móvil y escritorio para buscar y consultar las lecturas bíblic
 El encabezado muestra la semana actual, contando desde el 15 de noviembre de 2026 y avanzando cada siete días.
 
 Los datos del calendario se cargan desde `app/src/main/assets/calendario.json`.
+En el detalle de cada semana, las referencias bíblicas abren el pasaje dentro
+de la aplicación.
+
+La consulta flotante permite abrir las citas del calendario o buscar pasajes
+por referencia. Los libros se cargan de forma diferida desde
+`app/src/main/assets/biblia/`, a partir del conjunto
+Reina-Valera en JSON (repositorio `aruljohn/Reina-Valera`), distribuido bajo
+licencia MIT (incluida en esa carpeta). El origen no especifica la edición de
+Reina-Valera, por lo que la ventana no la identifica como RVR1960.
 
 ### Ejecutar localmente
 

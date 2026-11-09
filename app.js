@@ -1,9 +1,13 @@
 const CALENDAR_URL = "./app/src/main/assets/calendario.json";
+const BIBLE_ASSETS_URL = "./app/src/main/assets/biblia/";
 const root = document.querySelector("#app");
 
 let weeks = [];
 let selectedBlock = null;
 let searchTerm = "";
+let bibleBooksPromise;
+let bibleRequestId = 0;
+const bibleBookCache = new Map();
 
 const escapeHtml = (value) =>
   String(value).replace(/[&<>"']/g, (character) => {
@@ -65,6 +69,41 @@ function shell(content, isDetail = false) {
       </div>
     </header>
     ${content}
+    <aside class="bible-widget" aria-label="Consulta bíblica">
+      <section class="bible-panel" id="bible-panel" aria-labelledby="bible-title" hidden>
+        <div class="bible-panel-heading">
+          <div>
+            <p class="eyebrow">Lectura bíblica</p>
+            <h2 id="bible-title">Consultar una cita</h2>
+          </div>
+          <button class="bible-close" id="bible-close" type="button" aria-label="Cerrar consulta bíblica">×</button>
+        </div>
+        <form class="bible-search" id="bible-search">
+          <label for="bible-reference">Referencia</label>
+          <div class="bible-search-row">
+            <input
+              id="bible-reference"
+              type="search"
+              placeholder="Ej. Juan 3:16-18"
+              autocomplete="off"
+              required
+            />
+            <button class="nav-button primary" type="submit">Leer</button>
+          </div>
+          <p>Busca un capítulo, un versículo o un rango.</p>
+        </form>
+        <div class="bible-result" id="bible-result" aria-live="polite">
+          <p class="bible-prompt">Abre una cita del calendario o escribe una referencia.</p>
+        </div>
+      </section>
+      <button
+        class="bible-toggle"
+        id="bible-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="bible-panel"
+      ><span aria-hidden="true">▤</span> Biblia</button>
+    </aside>
     <footer class="site-footer">
       <div class="footer-inner">
         <p>Un día a la vez, una lectura a la vez.</p>
@@ -213,13 +252,232 @@ function renderHome() {
   });
 
   renderWeekResults();
+  setupBibleWidget();
+}
+
+function scriptureReferences(value) {
+  return value
+    .split(";")
+    .map((reference) => reference.trim())
+    .filter(Boolean)
+    .map((reference) => {
+      const localReference = reference
+        .replace(/\s*\(Parte\s+\d+\/\d+\)\s*$/, "")
+        .replace(/[–—]/g, "-");
+
+      return `
+        <button
+          class="scripture-reference"
+          type="button"
+          data-bible-reference="${escapeHtml(localReference)}"
+          aria-label="Leer ${escapeHtml(localReference)} en esta página"
+        >${escapeHtml(reference)}</button>
+      `;
+    })
+    .join("; ");
+}
+
+function setupBibleWidget() {
+  const panel = root.querySelector("#bible-panel");
+  const toggle = root.querySelector("#bible-toggle");
+  const close = root.querySelector("#bible-close");
+  const input = root.querySelector("#bible-reference");
+  const form = root.querySelector("#bible-search");
+
+  const setOpen = (isOpen) => {
+    panel.hidden = !isOpen;
+    toggle.setAttribute("aria-expanded", String(isOpen));
+    if (isOpen) input.focus();
+    else toggle.focus();
+  };
+
+  toggle.addEventListener("click", () => setOpen(panel.hidden));
+  close.addEventListener("click", () => setOpen(false));
+  panel.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") setOpen(false);
+  });
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    lookupBibleReference(input.value);
+  });
+  root.querySelectorAll("[data-bible-reference]").forEach((button) => {
+    button.addEventListener("click", () => {
+      setOpen(true);
+      lookupBibleReference(button.dataset.bibleReference);
+    });
+  });
+}
+
+async function loadBibleBooks() {
+  if (!bibleBooksPromise) {
+    bibleBooksPromise = fetch(`${BIBLE_ASSETS_URL}Books.json`).then((response) => {
+      if (!response.ok) {
+        throw new Error(`No se pudo cargar la lista de libros (${response.status}).`);
+      }
+      return response.json();
+    }).then((books) => {
+      if (!Array.isArray(books) || books.some((book) => typeof book !== "string")) {
+        throw new Error("La lista de libros bíblicos tiene un formato no válido.");
+      }
+      return books.map((name) => {
+        const aliases = [name, name.replace(/\bsan\s+/i, "")];
+        const additionalAliases = {
+          salmos: ["Salmo"],
+          "los actos": ["Hechos"],
+          revelacion: ["Apocalipsis"],
+        };
+        aliases.push(...(additionalAliases[normalize(name)] || []));
+        return { name, aliases: [...new Set(aliases.map(normalize))] };
+      }).sort((left, right) =>
+        Math.max(...right.aliases.map((alias) => alias.length)) -
+        Math.max(...left.aliases.map((alias) => alias.length)),
+      );
+    }).catch((error) => {
+      bibleBooksPromise = null;
+      throw error;
+    });
+  }
+  return bibleBooksPromise;
+}
+
+async function loadBibleBook(bookName) {
+  if (!bibleBookCache.has(bookName)) {
+    const url = `${BIBLE_ASSETS_URL}${encodeURIComponent(bookName)}.json`;
+    const request = fetch(url).then((response) => {
+      if (!response.ok) {
+        throw new Error(`No se pudo cargar ${bookName} (${response.status}).`);
+      }
+      return response.json();
+    }).then((data) => {
+      if (
+        data.book !== bookName ||
+        !Array.isArray(data.chapters) ||
+        data.chapters.some((chapter) => !Array.isArray(chapter.verses))
+      ) {
+        throw new Error(`Los datos de ${bookName} tienen un formato no válido.`);
+      }
+      return data;
+    });
+    bibleBookCache.set(bookName, request);
+    request.catch(() => bibleBookCache.delete(bookName));
+  }
+  return bibleBookCache.get(bookName);
+}
+
+function findBibleBook(reference, books) {
+  const normalizedReference = normalize(reference).replace(/\s+/g, " ").trim();
+  for (const book of books) {
+    for (const alias of book.aliases) {
+      if (normalizedReference === alias || normalizedReference.startsWith(`${alias} `)) {
+        return {
+          book,
+          passage: normalizedReference.slice(alias.length).trim(),
+        };
+      }
+    }
+  }
+  throw new Error("No reconocemos ese libro. Revisa el nombre de la referencia.");
+}
+
+function parseBiblePassage(passage) {
+  const match = passage.match(
+    /^(\d+)(?:\s*:\s*(\d+)(?:\s*[-–—]\s*(?:(\d+)\s*:\s*)?(\d+))?|\s*[-–—]\s*(\d+))?$/,
+  );
+  if (!match) {
+    throw new Error("Usa un formato como Juan 3:16, Salmos 23 o Génesis 1:1-2:3.");
+  }
+
+  const chapterStart = Number(match[1]);
+  const verseStart = match[2] ? Number(match[2]) : null;
+  const chapterEnd = match[5]
+    ? Number(match[5])
+    : match[3]
+      ? Number(match[3])
+      : chapterStart;
+  const verseEnd = match[4]
+    ? Number(match[4])
+    : verseStart === null
+      ? null
+      : verseStart;
+
+  if (chapterEnd < chapterStart) {
+    throw new Error("El capítulo final debe ser igual o posterior al inicial.");
+  }
+  if (chapterEnd - chapterStart > 20) {
+    throw new Error("El rango no puede abarcar más de 21 capítulos.");
+  }
+  return { chapterStart, chapterEnd, verseStart, verseEnd };
+}
+
+function renderBiblePassage(data, passage, reference) {
+  const range = parseBiblePassage(passage);
+  const chapters = data.chapters.filter(
+    (chapter) => chapter.chapter >= range.chapterStart && chapter.chapter <= range.chapterEnd,
+  );
+  if (chapters.length !== range.chapterEnd - range.chapterStart + 1) {
+    throw new Error(`No encontramos ese rango de capítulos en ${data.book}.`);
+  }
+
+  const renderedChapters = chapters.map((chapter) => {
+    const firstVerse = chapter.chapter === range.chapterStart ? range.verseStart : null;
+    const lastVerse = chapter.chapter === range.chapterEnd ? range.verseEnd : null;
+    const verses = chapter.verses.filter((verse) =>
+      (firstVerse === null || verse.verse >= firstVerse) &&
+      (lastVerse === null || verse.verse <= lastVerse),
+    );
+
+    if (verses.length === 0 || (firstVerse !== null && verses[0].verse !== firstVerse)) {
+      throw new Error(`No encontramos ese rango de versículos en ${data.book} ${chapter.chapter}.`);
+    }
+    if (lastVerse !== null && verses[verses.length - 1].verse !== lastVerse) {
+      throw new Error(`No encontramos ese rango de versículos en ${data.book} ${chapter.chapter}.`);
+    }
+
+    return `
+      <section class="bible-chapter" aria-label="${escapeHtml(data.book)} ${chapter.chapter}">
+        ${chapters.length > 1 || range.verseStart === null ? `<h3>${escapeHtml(data.book)} ${chapter.chapter}</h3>` : ""}
+        ${verses.map((verse) => `
+          <p class="bible-verse"><sup>${verse.verse}</sup>${escapeHtml(verse.text)}</p>
+        `).join("")}
+      </section>
+    `;
+  }).join("");
+
+  return `
+    <h3 class="bible-passage-title">${escapeHtml(reference)}</h3>
+    ${renderedChapters}
+  `;
+}
+
+async function lookupBibleReference(reference) {
+  const result = root.querySelector("#bible-result");
+  const input = root.querySelector("#bible-reference");
+  const requestId = ++bibleRequestId;
+  input.value = reference.trim();
+  result.innerHTML = '<p class="bible-prompt">Cargando la cita…</p>';
+
+  try {
+    const books = await loadBibleBooks();
+    const match = findBibleBook(reference, books);
+    if (!match.passage) {
+      throw new Error("Añade un capítulo o versículo, por ejemplo: Juan 3:16.");
+    }
+    const data = await loadBibleBook(match.book.name);
+    const content = renderBiblePassage(data, match.passage, reference.trim());
+    if (requestId === bibleRequestId) result.innerHTML = content;
+  } catch (error) {
+    console.error("Error al consultar la Biblia:", error);
+    if (requestId === bibleRequestId) {
+      result.innerHTML = `<p class="bible-error">${escapeHtml(error.message)}</p>`;
+    }
+  }
 }
 
 function passage(label, value) {
   return `
     <div class="passage">
       <span class="passage-label">${label}</span>
-      <span class="passage-value">${escapeHtml(value)}</span>
+      <span class="passage-value">${scriptureReferences(value)}</span>
     </div>
   `;
 }
@@ -269,15 +527,15 @@ function renderDetail(week) {
         <section class="overview-card" aria-label="Resumen de lecturas">
           <div class="overview-item">
             <span>Porción de Torá</span>
-            <strong>${escapeHtml(week.porcion)}</strong>
+            <strong>${scriptureReferences(week.porcion)}</strong>
           </div>
           <div class="overview-item">
             <span>Otros libros</span>
-            <strong>${escapeHtml(week.otrosLibros)}</strong>
+            <strong>${scriptureReferences(week.otrosLibros)}</strong>
           </div>
           <div class="overview-item">
             <span>Lectura complementaria</span>
-            <strong>${week.complementaria ? escapeHtml(week.complementaria) : "—"}</strong>
+            <strong>${week.complementaria ? scriptureReferences(week.complementaria) : "—"}</strong>
           </div>
         </section>
 
@@ -313,6 +571,7 @@ function renderDetail(week) {
       if (button.dataset.go) navigate(`#/semana/${button.dataset.go}`);
     });
   });
+  setupBibleWidget();
 }
 
 function renderError() {
