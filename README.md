@@ -13,11 +13,11 @@ En el detalle de cada semana, las referencias bíblicas abren el pasaje dentro
 de la aplicación.
 
 La consulta flotante permite abrir las citas del calendario o buscar pasajes
-por referencia. Los libros se cargan de forma diferida desde
-`app/src/main/assets/biblia/`, a partir del conjunto
-Reina-Valera en JSON (repositorio `aruljohn/Reina-Valera`), distribuido bajo
-licencia MIT (incluida en esa carpeta). El origen no especifica la edición de
-Reina-Valera, por lo que la ventana no la identifica como RVR1960.
+por referencia. Los libros RV1960 se cargan de forma diferida desde
+`app/src/main/assets/RV1960/`. Sus archivos JSON están adaptados al formato que
+consume la aplicación y conservan la numeración de capítulos y versículos. La
+licencia MIT y su atribución se incluyen en esa carpeta; la consulta identifica
+la edición como RV1960.
 
 ### Ejecutar localmente
 

@@ -1,5 +1,5 @@
 const CALENDAR_URL = "./app/src/main/assets/calendario.json";
-const BIBLE_ASSETS_URL = "./app/src/main/assets/biblia/";
+const BIBLE_ASSETS_URL = "./app/src/main/assets/RV1960/";
 const root = document.querySelector("#app");
 
 let weeks = [];
@@ -74,7 +74,7 @@ function shell(content, isDetail = false) {
       <section class="bible-panel" id="bible-panel" aria-labelledby="bible-title" hidden>
         <div class="bible-panel-heading">
           <div>
-            <p class="eyebrow">Lectura bíblica</p>
+            <p class="eyebrow">Lectura bíblica · RV1960</p>
             <h2 id="bible-title">Consultar una cita</h2>
           </div>
           <button class="bible-close" id="bible-close" type="button" aria-label="Cerrar consulta bíblica">×</button>
@@ -257,21 +257,34 @@ function renderHome() {
 }
 
 function scriptureReferences(value) {
+  let currentBook = "";
+
   return value
     .split(";")
     .map((reference) => reference.trim())
     .filter(Boolean)
     .map((reference) => {
       const localReference = reference
-        .replace(/\s*\(Parte\s+\d+\/\d+\)\s*$/, "")
+        .replace(
+          /\s*\((?:Parte\s+\d+\/\d+|Sección\s+\d+|Reflexión(?:\s+\d+)?|Cierre|Gran Cierre)\)\s*$/,
+          "",
+        )
         .replace(/[–—]/g, "-");
+      const bookMatch = localReference.match(/^(.+?)\s+\d+/);
+      if (bookMatch) currentBook = bookMatch[1];
+
+      const fullReference =
+        /^\d+\s*:\s*\d+/.test(localReference) && currentBook
+          ? `${currentBook} ${localReference}`
+          : localReference;
+      if (!/\d/.test(fullReference)) return escapeHtml(reference);
 
       return `
         <button
           class="scripture-reference"
           type="button"
-          data-bible-reference="${escapeHtml(localReference)}"
-          aria-label="Leer ${escapeHtml(localReference)} en esta página"
+          data-bible-reference="${escapeHtml(fullReference)}"
+          aria-label="Leer ${escapeHtml(fullReference)} en esta página"
         >${escapeHtml(reference)}</button>
       `;
     })
@@ -324,8 +337,21 @@ async function loadBibleBooks() {
         const aliases = [name, name.replace(/\bsan\s+/i, "")];
         const additionalAliases = {
           salmos: ["Salmo"],
-          "los actos": ["Hechos"],
-          revelacion: ["Apocalipsis"],
+          levitico: ["Levíticos"],
+          mateo: ["San Mateo"],
+          marcos: ["San Marcos", "San Márcos"],
+          lucas: ["San Lucas", "San Lúcas"],
+          juan: ["San Juan"],
+          hechos: ["Los Actos"],
+          hageo: ["Aggeo"],
+          ester: ["Esther"],
+          "1 pedro": ["1 San Pedro"],
+          "2 pedro": ["2 San Pedro"],
+          "1 juan": ["1 San Juan"],
+          "2 juan": ["2 San Juan"],
+          "3 juan": ["3 San Juan"],
+          judas: ["San Judas", "San Júdas"],
+          apocalipsis: ["Revelación"],
         };
         aliases.push(...(additionalAliases[normalize(name)] || []));
         return { name, aliases: [...new Set(aliases.map(normalize))] };
@@ -411,7 +437,13 @@ function parseBiblePassage(passage) {
 }
 
 function renderBiblePassage(data, passage, reference) {
-  const range = parseBiblePassage(passage);
+  const isSingleChapterVerseReference =
+    data.chapters.length === 1 &&
+    (/^\d+\s*[-–—]\s*\d+$/.test(passage) ||
+      (/^\d+$/.test(passage) && Number(passage) > 1));
+  const range = parseBiblePassage(
+    isSingleChapterVerseReference ? `1:${passage}` : passage,
+  );
   const chapters = data.chapters.filter(
     (chapter) => chapter.chapter >= range.chapterStart && chapter.chapter <= range.chapterEnd,
   );
