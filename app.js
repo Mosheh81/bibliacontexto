@@ -39,6 +39,7 @@ function currentCalendarWeekLabel(today = new Date()) {
   if (currentDay < startDay) return "Iniciamos el 15 de noviembre de 2026";
 
   const weekNumber = Math.floor((currentDay - startDay) / (7 * 24 * 60 * 60 * 1000)) + 1;
+  if (weekNumber > weeks.length) return "Calendario finalizado";
   return `Estamos en la semana ${weekNumber}`;
 }
 
@@ -65,7 +66,7 @@ function shell(content, isDetail = false) {
             <span class="week-status">${currentCalendarWeekLabel()}</span>
           </span>
         </a>
-        <a class="header-link" href="#/">${isDetail ? "Ver calendario" : "156 semanas"}</a>
+        <a class="header-link" href="#/">${isDetail ? "Ver calendario" : `${weeks.length} semanas`}</a>
       </div>
     </header>
     ${content}
